@@ -102,7 +102,7 @@
          "characters": "Happy",
          "style": {
             "fontFamily": "Cloudy Wavy Personal Use",
-            "fontPostScriptName": "CloudyWavyPersonalUse",
+            "fontPostScriptName": "CloudyWavyPersonalUse.otf",
             "fontWeight": 400,
             "textAutoResize": "WIDTH_AND_HEIGHT",
             "fontSize": 128,
