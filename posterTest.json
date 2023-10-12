@@ -90,7 +90,7 @@
          "effects": [],
          "characters": "new in shop.",
          "style": {
-            "fontFamily": "Roboto Serif",
+            "fontFamily": "RobotoSerif",
             "fontPostScriptName": "Roboto-Bold",
             "fontWeight": 700,
             "textCase": "LOWER",
