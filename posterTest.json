@@ -1,31 +1,31 @@
 {
-   "id": "124:1851",
+   "id": "191:626",
    "isAsset": false,
    "width": 1080,
-   "name": "Frame 144",
+   "name": "Frame 213",
    "type": "FRAME",
    "scrollBehavior": "SCROLLS",
    "blendMode": "PASS_THROUGH",
    "children": [
       {
-         "id": "124:1852",
+         "id": "191:627",
          "isAsset": false,
          "width": 1080,
-         "name": "Rectangle 58",
+         "name": "Rectangle 75",
          "type": "RECTANGLE",
          "scrollBehavior": "SCROLLS",
          "blendMode": "PASS_THROUGH",
          "absoluteBoundingBox": {
-            "x": 21969,
-            "y": -3900,
+            "x": 20584,
+            "y": -3693,
             "width": 1080,
             "height": 1080
          },
          "absoluteRenderBounds": {
-            "x": 21969,
-            "y": -3899.955810546875,
+            "x": 20584,
+            "y": -3693,
             "width": 1080,
-            "height": 1079.955810546875
+            "height": 1080
          },
          "constraints": {
             "vertical": "TOP",
@@ -36,81 +36,71 @@
                "blendMode": "NORMAL",
                "type": "SOLID",
                "color": {
-                  "r": 0.25882354378700256,
-                  "g": 0.25882354378700256,
-                  "b": 0.25882354378700256,
+                  "r": 0.9519792199134827,
+                  "g": 0.9519792199134827,
+                  "b": 0.8968935012817383,
                   "a": 1
                }
             }
          ],
          "strokes": [],
-         "strokeWeight": 1.0739922523498535,
+         "strokeWeight": 1,
          "strokeAlign": "INSIDE",
          "effects": []
       },
       {
-         "id": "124:1856",
+         "id": "191:629",
          "isAsset": false,
-         "width": 381.2672424316406,
-         "name": "Happy",
+         "width": 649,
+         "name": "new in shop.",
          "type": "TEXT",
          "scrollBehavior": "SCROLLS",
          "blendMode": "PASS_THROUGH",
          "absoluteBoundingBox": {
-            "x": 22084.9921875,
-            "y": -3574.536376953125,
-            "width": 381.267578125,
-            "height": 136.39697265625
+            "x": 20800,
+            "y": -3626,
+            "width": 649,
+            "height": 68
          },
          "absoluteRenderBounds": {
-            "x": 22089.25390625,
-            "y": -3574.045166015625,
-            "width": 383.88671875,
-            "height": 204.556884765625
+            "x": 20802.3046875,
+            "y": -3630.47998046875,
+            "width": 641.986328125,
+            "height": 93.887939453125
          },
          "constraints": {
             "vertical": "TOP",
-            "horizontal": "LEFT"
+            "horizontal": "CENTER"
          },
          "fills": [
             {
                "blendMode": "NORMAL",
                "type": "SOLID",
                "color": {
-                  "r": 0.9960784316062927,
-                  "g": 0.9098039269447327,
-                  "b": 0.7607843279838562,
+                  "r": 0.011214759200811386,
+                  "g": 0.30028554797172546,
+                  "b": 0.43411457538604736,
                   "a": 1
                }
             }
          ],
-         "strokes": [
-            {
-               "blendMode": "NORMAL",
-               "type": "SOLID",
-               "color": {
-                  "r": 0,
-                  "g": 0,
-                  "b": 0,
-                  "a": 1
-               }
-            }
-         ],
-         "strokeWeight": 1.0739922523498535,
+         "strokes": [],
+         "strokeWeight": 1,
          "strokeAlign": "OUTSIDE",
          "effects": [],
-         "characters": "Happy",
+         "characters": "new in shop.",
          "style": {
-            "fontFamily": "Cloudy Wavy Personal Use",
-            "fontPostScriptName": "CloudyWavyPersonalUse.otf",
-            "fontWeight": 400,
+            "fontFamily": "Roboto Serif",
+            "fontPostScriptName": "RobotoSerifNormalRoman-Bold",
+            "fontWeight": 700,
+            "textCase": "LOWER",
             "textAutoResize": "WIDTH_AND_HEIGHT",
-            "fontSize": 137.47100830078125,
+            "fontSize": 96,
             "textAlignHorizontal": "LEFT",
-            "textAlignVertical": "TOP",
+            "textAlignVertical": "CENTER",
             "leadingTrim": "CAP_HEIGHT",
-            "letterSpacing": 0,
-            "lineHeightPx": 252.121826171875,
+            "letterSpacing": 4.32,
+            "lineHeightPx": 112.41600036621094,
             "lineHeightPercent": 100,
             "lineHeightUnit": "INTRINSIC_%"
          },
@@ -125,101 +115,24 @@
          ]
       },
       {
-         "id": "124:1857",
-         "isAsset": false,
-         "width": 572.4378662109375,
-         "name": "Birthday!",
-         "type": "TEXT",
-         "scrollBehavior": "SCROLLS",
-         "rotation": 0.1879282081650239,
-         "blendMode": "PASS_THROUGH",
-         "absoluteBoundingBox": {
-            "x": 22059.21875,
-            "y": -3405.9189453125,
-            "width": 587.841796875,
-            "height": 240.940673828125
-         },
-         "absoluteRenderBounds": {
-            "x": 22051.119140625,
-            "y": -3407.103271484375,
-            "width": 591.2421875,
-            "height": 308.59814453125
-         },
-         "constraints": {
-            "vertical": "TOP",
-            "horizontal": "LEFT"
-         },
-         "fills": [
-            {
-               "blendMode": "NORMAL",
-               "type": "SOLID",
-               "color": {
-                  "r": 0.5921568870544434,
-                  "g": 0.4745098054409027,
-                  "b": 0.32156863808631897,
-                  "a": 1
-               }
-            }
-         ],
-         "strokes": [
-            {
-               "blendMode": "NORMAL",
-               "type": "SOLID",
-               "color": {
-                  "r": 0,
-                  "g": 0,
-                  "b": 0,
-                  "a": 1
-               }
-            }
-         ],
-         "strokeWeight": 1.0739922523498535,
-         "strokeAlign": "OUTSIDE",
-         "effects": [],
-         "characters": "Birthday!",
-         "style": {
-            "fontFamily": "Cloudy Wavy Personal Use",
-            "fontPostScriptName": "CloudyWavyPersonalUse.otf",
-            "fontWeight": 400,
-            "textAutoResize": "WIDTH_AND_HEIGHT",
-            "fontSize": 137.47100830078125,
-            "textAlignHorizontal": "LEFT",
-            "textAlignVertical": "TOP",
-            "leadingTrim": "CAP_HEIGHT",
-            "letterSpacing": 0,
-            "lineHeightPx": 252.121826171875,
-            "lineHeightPercent": 100,
-            "lineHeightUnit": "INTRINSIC_%"
-         },
-         "layoutVersion": 4,
-         "characterStyleOverrides": [],
-         "styleOverrideTable": {},
-         "lineTypes": [
-            "NONE"
-         ],
-         "lineIndentations": [
-            0
-         ]
-      },
-      {
-         "id": "124:1868",
+         "id": "191:652",
          "isAsset": true,
-         "width": 814.0861206054688,
-         "name": "image_5.png",
+         "width": 690,
+         "name": "image_6",
          "type": "RECTANGLE",
          "scrollBehavior": "SCROLLS",
          "blendMode": "PASS_THROUGH",
          "absoluteBoundingBox": {
-            "x": 22059.216796875,
-            "y": -3899.955810546875,
-            "width": 814.0859375,
-            "height": 445.706787109375
+            "x": 20779,
+            "y": -3498,
+            "width": 690,
+            "height": 690
          },
          "absoluteRenderBounds": {
-            "x": 22059.216796875,
-            "y": -3899.955810546875,
-            "width": 814.0859375,
-            "height": 445.706787109375
+            "x": 20779,
+            "y": -3498,
+            "width": 690,
+            "height": 690
          },
          "preserveRatio": true,
          "constraints": {
@@ -231,294 +144,443 @@
                "blendMode": "NORMAL",
                "type": "IMAGE",
                "scaleMode": "FILL",
-               "imageRef": "bc52e9741734e5b0d9068a33610adec58862bade"
+               "imageRef": "61b0d53542f7e67af0993d768e268ca3766e7afd"
             }
          ],
          "strokes": [],
-         "strokeWeight": 1.0739922523498535,
+         "strokeWeight": 1,
          "strokeAlign": "INSIDE",
-         "exportSettings": [
-            {
-               "suffix": "",
-               "format": "PNG",
-               "constraint": {
-                  "type": "SCALE",
-                  "value": 1
-               }
-            }
-         ],
          "effects": []
       },
       {
-         "id": "124:1858",
+         "id": "191:635",
          "isAsset": true,
-         "width": 421.5764465332031,
-         "name": "image_4.png",
+         "width": 47,
+         "name": "image_5",
+         "type": "ELLIPSE",
+         "scrollBehavior": "SCROLLS",
+         "blendMode": "PASS_THROUGH",
+         "absoluteBoundingBox": {
+            "x": 20848,
+            "y": -3472,
+            "width": 47,
+            "height": 47
+         },
+         "absoluteRenderBounds": {
+            "x": 20848,
+            "y": -3472,
+            "width": 47,
+            "height": 47
+         },
+         "preserveRatio": true,
+         "constraints": {
+            "vertical": "TOP",
+            "horizontal": "LEFT"
+         },
+         "fills": [
+            {
+               "blendMode": "NORMAL",
+               "type": "IMAGE",
+               "scaleMode": "FILL",
+               "imageRef": "e7b6cbabb07b22bbe5554bf54efcbb74e4a7c2ad"
+            }
+         ],
+         "strokes": [],
+         "strokeWeight": 1,
+         "strokeAlign": "INSIDE",
+         "effects": [],
+         "arcData": {
+            "startingAngle": 0,
+            "endingAngle": 6.2831854820251465,
+            "innerRadius": 0
+         }
+      },
+      {
+         "id": "191:636",
+         "isAsset": false,
+         "width": 194,
+         "name": "reallygreatsite",
+         "type": "TEXT",
+         "scrollBehavior": "SCROLLS",
+         "blendMode": "PASS_THROUGH",
+         "absoluteBoundingBox": {
+            "x": 20920,
+            "y": -3457,
+            "width": 194,
+            "height": 19
+         },
+         "absoluteRenderBounds": {
+            "x": 20921.85546875,
+            "y": -3457.666259765625,
+            "width": 190.263671875,
+            "height": 25.27978515625
+         },
+         "constraints": {
+            "vertical": "TOP",
+            "horizontal": "LEFT"
+         },
+         "fills": [
+            {
+               "blendMode": "NORMAL",
+               "type": "SOLID",
+               "color": {
+                  "r": 0,
+                  "g": 0,
+                  "b": 0,
+                  "a": 1
+               }
+            }
+         ],
+         "strokes": [],
+         "strokeWeight": 1,
+         "strokeAlign": "OUTSIDE",
+         "effects": [],
+         "characters": "reallygreatsite",
+         "style": {
+            "fontFamily": "Inter",
+            "fontPostScriptName": "Inter-Medium",
+            "fontWeight": 500,
+            "textCase": "LOWER",
+            "textAutoResize": "WIDTH_AND_HEIGHT",
+            "fontSize": 26,
+            "textAlignHorizontal": "LEFT",
+            "textAlignVertical": "CENTER",
+            "leadingTrim": "CAP_HEIGHT",
+            "letterSpacing": 1.17,
+            "lineHeightPx": 31.46590805053711,
+            "lineHeightPercent": 100,
+            "lineHeightUnit": "INTRINSIC_%"
+         },
+         "layoutVersion": 4,
+         "characterStyleOverrides": [],
+         "styleOverrideTable": {},
+         "lineTypes": [
+            "NONE"
+         ],
+         "lineIndentations": [
+            0
+         ]
+      },
+      {
+         "id": "191:637",
+         "isAsset": false,
+         "width": 506,
+         "name": "shop now at www.reallygreatsite.com",
+         "type": "TEXT",
+         "scrollBehavior": "SCROLLS",
+         "blendMode": "PASS_THROUGH",
+         "absoluteBoundingBox": {
+            "x": 20871,
+            "y": -2760,
+            "width": 506,
+            "height": 19
+         },
+         "absoluteRenderBounds": {
+            "x": 20872.228515625,
+            "y": -2760.666259765625,
+            "width": 502.853515625,
+            "height": 25.27978515625
+         },
+         "constraints": {
+            "vertical": "TOP",
+            "horizontal": "CENTER"
+         },
+         "fills": [
+            {
+               "blendMode": "NORMAL",
+               "type": "SOLID",
+               "color": {
+                  "r": 0,
+                  "g": 0,
+                  "b": 0,
+                  "a": 1
+               }
+            }
+         ],
+         "strokes": [],
+         "strokeWeight": 1,
+         "strokeAlign": "OUTSIDE",
+         "effects": [],
+         "characters": "shop now at www.reallygreatsite.com",
+         "style": {
+            "fontFamily": "Inter",
+            "fontPostScriptName": "Inter-Medium",
+            "fontWeight": 500,
+            "textCase": "LOWER",
+            "textAutoResize": "WIDTH_AND_HEIGHT",
+            "fontSize": 26,
+            "textAlignHorizontal": "LEFT",
+            "textAlignVertical": "CENTER",
+            "leadingTrim": "CAP_HEIGHT",
+            "letterSpacing": 1.17,
+            "lineHeightPx": 31.46590805053711,
+            "lineHeightPercent": 100,
+            "lineHeightUnit": "INTRINSIC_%"
+         },
+         "layoutVersion": 4,
+         "characterStyleOverrides": [],
+         "styleOverrideTable": {},
+         "lineTypes": [
+            "NONE"
+         ],
+         "lineIndentations": [
+            0
+         ]
+      },
+      {
+         "id": "191:638",
+         "isAsset": true,
+         "width": 382,
+         "name": "image_4",
+         "type": "RECTANGLE",
+         "scrollBehavior": "SCROLLS",
+         "blendMode": "PASS_THROUGH",
+         "absoluteBoundingBox": {
+            "x": 21247,
+            "y": -3125,
+            "width": 382,
+            "height": 78
+         },
+         "absoluteRenderBounds": {
+            "x": 21247,
+            "y": -3125,
+            "width": 382,
+            "height": 78
+         },
+         "constraints": {
+            "vertical": "TOP",
+            "horizontal": "LEFT"
+         },
+         "fills": [
+            {
+               "blendMode": "NORMAL",
+               "type": "IMAGE",
+               "scaleMode": "FILL",
+               "imageRef": "96600cc35011a581877a05cb510b2d963e749a92"
+            }
+         ],
+         "strokes": [
+            {
+               "blendMode": "NORMAL",
+               "type": "SOLID",
+               "color": {
+                  "r": 0,
+                  "g": 0,
+                  "b": 0,
+                  "a": 1
+               }
+            }
+         ],
+         "strokeWeight": 4,
+         "strokeAlign": "INSIDE",
+         "effects": [],
+         "cornerRadius": 57,
+         "cornerSmoothing": 0
+      },
+      {
+         "id": "191:639",
+         "isAsset": false,
+         "width": 249,
+         "name": "fashion blouse",
+         "type": "TEXT",
+         "scrollBehavior": "SCROLLS",
+         "blendMode": "PASS_THROUGH",
+         "absoluteBoundingBox": {
+            "x": 21314,
+            "y": -3097,
+            "width": 249,
+            "height": 23
+         },
+         "absoluteRenderBounds": {
+            "x": 21314.544921875,
+            "y": -3098.602294921875,
+            "width": 246.509765625,
+            "height": 24.943115234375
+         },
+         "constraints": {
+            "vertical": "TOP",
+            "horizontal": "LEFT"
+         },
+         "fills": [
+            {
+               "blendMode": "NORMAL",
+               "type": "SOLID",
+               "color": {
+                  "r": 0.027450980618596077,
+                  "g": 0.239215686917305,
+                  "b": 0.33725491166114807,
+                  "a": 1
+               }
+            }
+         ],
+         "strokes": [],
+         "strokeWeight": 1,
+         "strokeAlign": "OUTSIDE",
+         "effects": [],
+         "characters": "fashion blouse",
+         "style": {
+            "fontFamily": "Inter",
+            "fontPostScriptName": "Inter-Bold",
+            "fontWeight": 700,
+            "textCase": "LOWER",
+            "textAutoResize": "WIDTH_AND_HEIGHT",
+            "fontSize": 32,
+            "textAlignHorizontal": "LEFT",
+            "textAlignVertical": "CENTER",
+            "leadingTrim": "CAP_HEIGHT",
+            "letterSpacing": 1.44,
+            "lineHeightPx": 38.727272033691406,
+            "lineHeightPercent": 100,
+            "lineHeightUnit": "INTRINSIC_%"
+         },
+         "layoutVersion": 4,
+         "characterStyleOverrides": [],
+         "styleOverrideTable": {},
+         "lineTypes": [
+            "NONE"
+         ],
+         "lineIndentations": [
+            0
+         ]
+      },
+      {
+         "id": "191:640",
+         "isAsset": true,
+         "width": 42.37858581542969,
+         "name": "image_3",
          "type": "VECTOR",
          "scrollBehavior": "SCROLLS",
          "blendMode": "PASS_THROUGH",
          "absoluteBoundingBox": {
-            "x": 22126.875,
-            "y": -3164.271240234375,
-            "width": 421.576171875,
-            "height": 68.735595703125
+            "x": 20849,
+            "y": -2876,
+            "width": 42.37890625,
+            "height": 36.315673828125
          },
          "absoluteRenderBounds": {
-            "x": 22126.875,
-            "y": -3164.271240234375,
-            "width": 421.576171875,
-            "height": 68.735595703125
+            "x": 20849,
+            "y": -2876,
+            "width": 42.37890625,
+            "height": 36.315673828125
          },
          "constraints": {
-            "vertical": "TOP",
-            "horizontal": "LEFT"
+            "vertical": "SCALE",
+            "horizontal": "SCALE"
          },
          "fills": [
             {
                "blendMode": "NORMAL",
                "type": "IMAGE",
                "scaleMode": "FILL",
-               "imageRef": "c62c3f60ac0b1494f0d82115ccc7f37a0e83217f"
+               "imageRef": "5b9797a67c5ea30a7faff8d63e56734063615b5d"
             }
          ],
-         "fillOverrideTable": {
-            "1": null,
-            "3": null
-         },
-         "strokes": [],
-         "strokeWeight": 1.0739922523498535,
-         "strokeAlign": "INSIDE",
-         "exportSettings": [
-            {
-               "suffix": "",
-               "format": "PNG",
-               "constraint": {
-                  "type": "SCALE",
-                  "value": 1
-               }
-            }
-         ],
-         "effects": []
-      },
-      {
-         "id": "124:1859",
-         "isAsset": false,
-         "width": 293,
-         "name": "Cia Rodriguez",
-         "type": "TEXT",
-         "scrollBehavior": "SCROLLS",
-         "blendMode": "PASS_THROUGH",
-         "absoluteBoundingBox": {
-            "x": 22184.875,
-            "y": -3147.08740234375,
-            "width": 293,
-            "height": 34
-         },
-         "absoluteRenderBounds": {
-            "x": 22186.80859375,
-            "y": -3150.784423828125,
-            "width": 290.201171875,
-            "height": 48.812744140625
-         },
-         "constraints": {
-            "vertical": "TOP",
-            "horizontal": "LEFT"
-         },
-         "fills": [
+         "strokes": [
             {
                "blendMode": "NORMAL",
                "type": "SOLID",
                "color": {
-                  "r": 0.2666666805744171,
-                  "g": 0.1411764770746231,
+                  "r": 0,
+                  "g": 0,
                   "b": 0,
                   "a": 1
                }
             }
          ],
-         "strokes": [],
-         "strokeWeight": 1.0739922523498535,
-         "strokeAlign": "OUTSIDE",
-         "effects": [],
-         "characters": "Cia Rodriguez",
-         "style": {
-            "fontFamily": "Jost",
-            "fontPostScriptName": "Jost-Regular.ttf",
-            "fontWeight": 400,
-            "textAutoResize": "WIDTH_AND_HEIGHT",
-            "fontSize": 48.32965087890625,
-            "textAlignHorizontal": "LEFT",
-            "textAlignVertical": "TOP",
-            "leadingTrim": "CAP_HEIGHT",
-            "letterSpacing": 0,
-            "lineHeightPx": 69.83634948730469,
-            "lineHeightPercent": 100,
-            "lineHeightUnit": "INTRINSIC_%"
-         },
-         "layoutVersion": 4,
-         "characterStyleOverrides": [],
-         "styleOverrideTable": {},
-         "lineTypes": [
-            "NONE"
-         ],
-         "lineIndentations": [
-            0
-         ]
-      },
-      {
-         "id": "124:1877",
-         "isAsset": true,
-         "width": 484.3705139160156,
-         "name": "image_3.png",
-         "type": "RECTANGLE",
-         "scrollBehavior": "SCROLLS",
-         "blendMode": "PASS_THROUGH",
-         "absoluteBoundingBox": {
-            "x": 22084.9921875,
-            "y": -3215.822509765625,
-            "width": 484.37109375,
-            "height": 172.912841796875
-         },
-         "absoluteRenderBounds": {
-            "x": 22084.9921875,
-            "y": -3215.822509765625,
-            "width": 484.37109375,
-            "height": 172.912841796875
-         },
-         "preserveRatio": true,
-         "constraints": {
-            "vertical": "TOP",
-            "horizontal": "LEFT"
-         },
-         "fills": [
-            {
-               "blendMode": "NORMAL",
-               "type": "IMAGE",
-               "scaleMode": "FILL",
-               "imageRef": "3d559fb57a5579239d7df54eb0c46fda78bb3178"
-            }
-         ],
-         "strokes": [],
-         "strokeWeight": 1.0739922523498535,
+         "strokeWeight": 0,
          "strokeAlign": "INSIDE",
-         "exportSettings": [
-            {
-               "suffix": "",
-               "format": "PNG",
-               "constraint": {
-                  "type": "SCALE",
-                  "value": 1
-               }
-            }
-         ],
          "effects": []
       },
       {
-         "id": "124:1871",
+         "id": "191:641",
          "isAsset": true,
-         "width": 309.3097839355469,
-         "name": "image_2.png",
-         "type": "RECTANGLE",
+         "width": 42.37858581542969,
+         "name": "image_2",
+         "type": "VECTOR",
          "scrollBehavior": "SCROLLS",
          "blendMode": "PASS_THROUGH",
          "absoluteBoundingBox": {
-            "x": 22495.2578125,
-            "y": -3828.78076171875,
-            "width": 309.310546875,
-            "height": 990.220947265625
+            "x": 20918.8125,
+            "y": -2874,
+            "width": 42.37890625,
+            "height": 31.89697265625
          },
          "absoluteRenderBounds": {
-            "x": 22495.2578125,
-            "y": -3828.78076171875,
-            "width": 309.310546875,
-            "height": 990.220947265625
+            "x": 20918.8125,
+            "y": -2874,
+            "width": 42.37890625,
+            "height": 31.89697265625
          },
          "preserveRatio": true,
          "constraints": {
-            "vertical": "TOP",
-            "horizontal": "LEFT"
+            "vertical": "SCALE",
+            "horizontal": "SCALE"
          },
          "fills": [
             {
                "blendMode": "NORMAL",
                "type": "IMAGE",
                "scaleMode": "FILL",
-               "imageRef": "a5f1d2103089bcad94a0a0e33cfc409ea600cafe"
+               "imageRef": "df89d03f0c584b64a395c467f45ece06a290ce77"
             }
          ],
+         "fillOverrideTable": {
+            "1": null,
+            "2": null
+         },
          "strokes": [],
-         "strokeWeight": 1.0739922523498535,
+         "strokeWeight": 2.1993300914764404,
          "strokeAlign": "INSIDE",
-         "exportSettings": [
-            {
-               "suffix": "",
-               "format": "PNG",
-               "constraint": {
-                  "type": "SCALE",
-                  "value": 1
-               }
-            }
-         ],
          "effects": []
       },
       {
-         "id": "124:1874",
+         "id": "191:642",
          "isAsset": true,
-         "width": 298.56982421875,
-         "name": "image_1.png",
-         "type": "RECTANGLE",
+         "width": 42.37858581542969,
+         "name": "image_1",
+         "type": "VECTOR",
          "scrollBehavior": "SCROLLS",
          "blendMode": "PASS_THROUGH",
          "absoluteBoundingBox": {
-            "x": 22793.822265625,
-            "y": -3887.404296875,
-            "width": 298.5703125,
-            "height": 1108.35986328125
+            "x": 21356,
+            "y": -2882,
+            "width": 42.37890625,
+            "height": 40.26416015625
          },
          "absoluteRenderBounds": {
-            "x": 22793.822265625,
-            "y": -3887.404296875,
-            "width": 255.177734375,
-            "height": 1067.448486328125
+            "x": 21356,
+            "y": -2882,
+            "width": 42.37890625,
+            "height": 40.26416015625
          },
          "preserveRatio": true,
          "constraints": {
-            "vertical": "TOP",
-            "horizontal": "LEFT"
+            "vertical": "SCALE",
+            "horizontal": "SCALE"
          },
          "fills": [
             {
                "blendMode": "NORMAL",
                "type": "IMAGE",
                "scaleMode": "FILL",
-               "imageRef": "9aaaf739118b97d5eddbeccffd70756f8f7eb446"
+               "imageRef": "dca723a6358b00389ea2c8caa5f3ead991e11fee"
             }
          ],
          "strokes": [],
-         "strokeWeight": 1.0739922523498535,
+         "strokeWeight": 0.18918965756893158,
          "strokeAlign": "INSIDE",
-         "exportSettings": [
-            {
-               "suffix": "",
-               "format": "PNG",
-               "constraint": {
-                  "type": "SCALE",
-                  "value": 1
-               }
-            }
-         ],
          "effects": []
       }
    ],
    "absoluteBoundingBox": {
-      "x": 21969,
-      "y": -3899.955810546875,
+      "x": 20584,
+      "y": -3693,
       "width": 1080,
       "height": 1080
    },
    "absoluteRenderBounds": {
-      "x": 21969,
-      "y": -3899.955810546875,
+      "x": 20584,
+      "y": -3693,
       "width": 1080,
       "height": 1080
    },
@@ -552,7 +614,7 @@
       }
    ],
    "strokes": [],
-   "strokeWeight": 1.0739922523498535,
+   "strokeWeight": 1,
    "strokeAlign": "INSIDE",
    "backgroundColor": {
       "r": 1,
