@@ -19,13 +19,13 @@
             "x": 21969,
             "y": -3549,
             "width": 458,
-            "height": 800
+            "height": 458
          },
          "absoluteRenderBounds": {
             "x": 21969,
             "y": -3549,
             "width": 430,
-            "height": 800
+            "height": 458
          },
          "constraints": {
             "vertical": "TOP",
