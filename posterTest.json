@@ -91,7 +91,7 @@
          "characters": "new in shop.",
          "style": {
             "fontFamily": "Roboto Serif",
-            "fontPostScriptName": "RobotoSerifNormalRoman-Bold",
+            "fontPostScriptName": "Roboto-Bold",
             "fontWeight": 700,
             "textCase": "LOWER",
             "textAutoResize": "WIDTH_AND_HEIGHT",
