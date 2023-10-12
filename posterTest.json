@@ -1,7 +1,7 @@
 {
    "id": "124:1851",
    "isAsset": false,
-   "width": 1080,
+   "width": 430,
    "name": "Frame 144",
    "type": "FRAME",
    "scrollBehavior": "SCROLLS",
@@ -10,22 +10,22 @@
       {
          "id": "124:1852",
          "isAsset": false,
-         "width": 1080,
+         "width": 458,
          "name": "Rectangle 58",
          "type": "RECTANGLE",
          "scrollBehavior": "SCROLLS",
          "blendMode": "PASS_THROUGH",
          "absoluteBoundingBox": {
-            "x": 21730,
-            "y": -1986,
-            "width": 1080,
-            "height": 1080
+            "x": 21969,
+            "y": -3549,
+            "width": 458,
+            "height": 458
          },
          "absoluteRenderBounds": {
-            "x": 21730,
-            "y": -1986,
-            "width": 1080,
-            "height": 1080
+            "x": 21969,
+            "y": -3549,
+            "width": 430,
+            "height": 458
          },
          "constraints": {
             "vertical": "TOP",
@@ -44,29 +44,29 @@
             }
          ],
          "strokes": [],
-         "strokeWeight": 1,
+         "strokeWeight": 0.42407408356666565,
          "strokeAlign": "INSIDE",
          "effects": []
       },
       {
          "id": "124:1856",
          "isAsset": false,
-         "width": 355,
+         "width": 150.54629516601562,
          "name": "Happy",
          "type": "TEXT",
          "scrollBehavior": "SCROLLS",
          "blendMode": "PASS_THROUGH",
          "absoluteBoundingBox": {
-            "x": 21838,
-            "y": -1683,
-            "width": 355,
-            "height": 127
+            "x": 22014.80078125,
+            "y": -3420.505615234375,
+            "width": 150.546875,
+            "height": 53.857421875
          },
          "absoluteRenderBounds": {
-            "x": 21841.96875,
-            "y": -1683.10400390625,
-            "width": 357.4375,
-            "height": 190.4639892578125
+            "x": 22016.484375,
+            "y": -3420.4072265625,
+            "width": 151.580078125,
+            "height": 80.77099609375
          },
          "constraints": {
             "vertical": "TOP",
@@ -96,21 +96,21 @@
                }
             }
          ],
-         "strokeWeight": 1,
+         "strokeWeight": 0.42407408356666565,
          "strokeAlign": "OUTSIDE",
          "effects": [],
          "characters": "Happy",
          "style": {
             "fontFamily": "Cloudy Wavy Personal Use",
-            "fontPostScriptName": "CloudyWavyPersonalUse.otf",
+            "fontPostScriptName": "CloudyWavyPersonalUse",
             "fontWeight": 400,
             "textAutoResize": "WIDTH_AND_HEIGHT",
-            "fontSize": 128,
+            "fontSize": 54.2814826965332,
             "textAlignHorizontal": "LEFT",
             "textAlignVertical": "TOP",
             "leadingTrim": "CAP_HEIGHT",
             "letterSpacing": 0,
-            "lineHeightPx": 234.7519989013672,
+            "lineHeightPx": 99.55223846435547,
             "lineHeightPercent": 100,
             "lineHeightUnit": "INTRINSIC_%"
          },
@@ -127,23 +127,23 @@
       {
          "id": "124:1857",
          "isAsset": false,
-         "width": 533,
+         "width": 226.03147888183594,
          "name": "Birthday!",
          "type": "TEXT",
          "scrollBehavior": "SCROLLS",
          "rotation": 0.1879282081650239,
          "blendMode": "PASS_THROUGH",
          "absoluteBoundingBox": {
-            "x": 21814,
-            "y": -1526,
-            "width": 547.341796875,
-            "height": 224.3411865234375
+            "x": 22004.623046875,
+            "y": -3353.92578125,
+            "width": 232.115234375,
+            "height": 95.13720703125
          },
          "absoluteRenderBounds": {
-            "x": 21806.564453125,
-            "y": -1527.6544189453125,
-            "width": 550.505859375,
-            "height": 287.337646484375
+            "x": 22001.443359375,
+            "y": -3354.4873046875,
+            "width": 233.455078125,
+            "height": 121.8525390625
          },
          "constraints": {
             "vertical": "TOP",
@@ -173,21 +173,21 @@
                }
             }
          ],
-         "strokeWeight": 1,
+         "strokeWeight": 0.42407408356666565,
          "strokeAlign": "OUTSIDE",
          "effects": [],
          "characters": "Birthday!",
          "style": {
             "fontFamily": "Cloudy Wavy Personal Use",
-            "fontPostScriptName": "CloudyWavyPersonalUse.otf",
+            "fontPostScriptName": "CloudyWavyPersonalUse",
             "fontWeight": 400,
             "textAutoResize": "WIDTH_AND_HEIGHT",
-            "fontSize": 128,
+            "fontSize": 54.2814826965332,
             "textAlignHorizontal": "LEFT",
             "textAlignVertical": "TOP",
             "leadingTrim": "CAP_HEIGHT",
             "letterSpacing": 0,
-            "lineHeightPx": 234.7519989013672,
+            "lineHeightPx": 99.55223846435547,
             "lineHeightPercent": 100,
             "lineHeightUnit": "INTRINSIC_%"
          },
@@ -204,22 +204,22 @@
       {
          "id": "124:1868",
          "isAsset": true,
-         "width": 758,
-         "name": "image_5.png",
+         "width": 321.4481506347656,
+         "name": "image_5",
          "type": "RECTANGLE",
          "scrollBehavior": "SCROLLS",
          "blendMode": "PASS_THROUGH",
          "absoluteBoundingBox": {
-            "x": 21814,
-            "y": -1986,
-            "width": 758,
-            "height": 415
+            "x": 22004.623046875,
+            "y": -3549,
+            "width": 321.447265625,
+            "height": 175.99072265625
          },
          "absoluteRenderBounds": {
-            "x": 21814,
-            "y": -1986,
-            "width": 758,
-            "height": 415
+            "x": 22004.623046875,
+            "y": -3549,
+            "width": 321.447265625,
+            "height": 175.99072265625
          },
          "preserveRatio": true,
          "constraints": {
@@ -235,29 +235,39 @@
             }
          ],
          "strokes": [],
-         "strokeWeight": 1,
+         "strokeWeight": 0.42407408356666565,
          "strokeAlign": "INSIDE",
+         "exportSettings": [
+            {
+               "suffix": "",
+               "format": "PNG",
+               "constraint": {
+                  "type": "SCALE",
+                  "value": 1
+               }
+            }
+         ],
          "effects": []
       },
       {
          "id": "124:1858",
          "isAsset": true,
-         "width": 392.5321044921875,
-         "name": "image_4.png",
+         "width": 166.4626922607422,
+         "name": "image_4",
          "type": "VECTOR",
          "scrollBehavior": "SCROLLS",
          "blendMode": "PASS_THROUGH",
          "absoluteBoundingBox": {
-            "x": 21877,
-            "y": -1301,
-            "width": 392.53125,
-            "height": 64
+            "x": 22031.337890625,
+            "y": -3258.50927734375,
+            "width": 166.462890625,
+            "height": 27.140625
          },
          "absoluteRenderBounds": {
-            "x": 21877,
-            "y": -1301,
-            "width": 392.53125,
-            "height": 64
+            "x": 22031.337890625,
+            "y": -3258.50927734375,
+            "width": 166.462890625,
+            "height": 27.140625
          },
          "constraints": {
             "vertical": "TOP",
@@ -276,29 +286,39 @@
             "3": null
          },
          "strokes": [],
-         "strokeWeight": 1,
+         "strokeWeight": 0.42407408356666565,
          "strokeAlign": "INSIDE",
+         "exportSettings": [
+            {
+               "suffix": "",
+               "format": "PNG",
+               "constraint": {
+                  "type": "SCALE",
+                  "value": 1
+               }
+            }
+         ],
          "effects": []
       },
       {
          "id": "124:1859",
          "isAsset": false,
-         "width": 273,
+         "width": 116,
          "name": "Cia Rodriguez",
          "type": "TEXT",
          "scrollBehavior": "SCROLLS",
          "blendMode": "PASS_THROUGH",
          "absoluteBoundingBox": {
-            "x": 21931,
-            "y": -1285,
-            "width": 273,
-            "height": 32
+            "x": 22054.240234375,
+            "y": -3251.72412109375,
+            "width": 116,
+            "height": 13
          },
          "absoluteRenderBounds": {
-            "x": 21932.80078125,
-            "y": -1288.0999755859375,
-            "width": 270.20703125,
-            "height": 45.449951171875
+            "x": 22055.00390625,
+            "y": -3253.609130859375,
+            "width": 114.587890625,
+            "height": 19.274169921875
          },
          "constraints": {
             "vertical": "TOP",
@@ -317,21 +337,21 @@
             }
          ],
          "strokes": [],
-         "strokeWeight": 1,
+         "strokeWeight": 0.42407408356666565,
          "strokeAlign": "OUTSIDE",
          "effects": [],
          "characters": "Cia Rodriguez",
          "style": {
             "fontFamily": "Jost",
-            "fontPostScriptName": "Jost-Regular.ttf",
+            "fontPostScriptName": "Jost-Regular",
             "fontWeight": 400,
             "textAutoResize": "WIDTH_AND_HEIGHT",
-            "fontSize": 45,
+            "fontSize": 19.083332061767578,
             "textAlignHorizontal": "LEFT",
             "textAlignVertical": "TOP",
             "leadingTrim": "CAP_HEIGHT",
             "letterSpacing": 0,
-            "lineHeightPx": 65.0250015258789,
+            "lineHeightPx": 27.575416564941406,
             "lineHeightPercent": 100,
             "lineHeightUnit": "INTRINSIC_%"
          },
@@ -348,22 +368,22 @@
       {
          "id": "124:1877",
          "isAsset": true,
-         "width": 451,
+         "width": 191.25741577148438,
          "name": "image_3.png",
          "type": "RECTANGLE",
          "scrollBehavior": "SCROLLS",
          "blendMode": "PASS_THROUGH",
          "absoluteBoundingBox": {
-            "x": 21826,
-            "y": -1335,
-            "width": 451,
-            "height": 161
+            "x": 22014.80078125,
+            "y": -3278.86474609375,
+            "width": 191.2578125,
+            "height": 68.27587890625
          },
          "absoluteRenderBounds": {
-            "x": 21826,
-            "y": -1335,
-            "width": 451,
-            "height": 161
+            "x": 22014.80078125,
+            "y": -3278.86474609375,
+            "width": 191.2578125,
+            "height": 68.27587890625
          },
          "preserveRatio": true,
          "constraints": {
@@ -379,29 +399,39 @@
             }
          ],
          "strokes": [],
-         "strokeWeight": 1,
+         "strokeWeight": 0.42407408356666565,
          "strokeAlign": "INSIDE",
+         "exportSettings": [
+            {
+               "suffix": "",
+               "format": "PNG",
+               "constraint": {
+                  "type": "SCALE",
+                  "value": 1
+               }
+            }
+         ],
          "effects": []
       },
       {
          "id": "124:1871",
          "isAsset": true,
-         "width": 288,
+         "width": 122.13333892822266,
          "name": "image_2.png",
          "type": "RECTANGLE",
          "scrollBehavior": "SCROLLS",
          "blendMode": "PASS_THROUGH",
          "absoluteBoundingBox": {
-            "x": 22220,
-            "y": -1862,
-            "width": 288,
-            "height": 922
+            "x": 22176.796875,
+            "y": -3496.414794921875,
+            "width": 122.1328125,
+            "height": 390.996337890625
          },
          "absoluteRenderBounds": {
-            "x": 22220,
-            "y": -1862,
-            "width": 288,
-            "height": 922
+            "x": 22176.796875,
+            "y": -3496.414794921875,
+            "width": 122.1328125,
+            "height": 390.996337890625
          },
          "preserveRatio": true,
          "constraints": {
@@ -417,29 +447,39 @@
             }
          ],
          "strokes": [],
-         "strokeWeight": 1,
+         "strokeWeight": 0.42407408356666565,
          "strokeAlign": "INSIDE",
+         "exportSettings": [
+            {
+               "suffix": "",
+               "format": "PNG",
+               "constraint": {
+                  "type": "SCALE",
+                  "value": 1
+               }
+            }
+         ],
          "effects": []
       },
       {
          "id": "124:1874",
          "isAsset": true,
-         "width": 278,
+         "width": 117.89258575439453,
          "name": "image_1.png",
          "type": "RECTANGLE",
          "scrollBehavior": "SCROLLS",
          "blendMode": "PASS_THROUGH",
          "absoluteBoundingBox": {
-            "x": 22498,
-            "y": -1938,
-            "width": 278,
-            "height": 1032
+            "x": 22294.6875,
+            "y": -3528.64453125,
+            "width": 117.892578125,
+            "height": 437.64453125
          },
          "absoluteRenderBounds": {
-            "x": 22498,
-            "y": -1938,
-            "width": 278,
-            "height": 1032
+            "x": 22294.6875,
+            "y": -3528.64453125,
+            "width": 104.3125,
+            "height": 437.64453125
          },
          "preserveRatio": true,
          "constraints": {
@@ -455,22 +495,32 @@
             }
          ],
          "strokes": [],
-         "strokeWeight": 1,
+         "strokeWeight": 0.42407408356666565,
          "strokeAlign": "INSIDE",
+         "exportSettings": [
+            {
+               "suffix": "",
+               "format": "PNG",
+               "constraint": {
+                  "type": "SCALE",
+                  "value": 1
+               }
+            }
+         ],
          "effects": []
       }
    ],
    "absoluteBoundingBox": {
-      "x": 21730,
-      "y": -1986,
-      "width": 1080,
-      "height": 1080
+      "x": 21969,
+      "y": -3549,
+      "width": 430,
+      "height": 458
    },
    "absoluteRenderBounds": {
-      "x": 21730,
-      "y": -1986,
-      "width": 1080,
-      "height": 1080
+      "x": 21969,
+      "y": -3549,
+      "width": 430,
+      "height": 458
    },
    "constraints": {
       "vertical": "TOP",
@@ -502,7 +552,7 @@
       }
    ],
    "strokes": [],
-   "strokeWeight": 1,
+   "strokeWeight": 0.42407408356666565,
    "strokeAlign": "INSIDE",
    "backgroundColor": {
       "r": 1,
