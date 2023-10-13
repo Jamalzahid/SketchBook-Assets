@@ -1,31 +1,31 @@
 {
-   "id": "191:626",
+   "id": "432:497",
    "isAsset": false,
-   "width": 1080,
-   "name": "Frame 213",
+   "width": 1584,
+   "name": "Frame 224",
    "type": "FRAME",
    "scrollBehavior": "SCROLLS",
    "blendMode": "PASS_THROUGH",
    "children": [
       {
-         "id": "191:627",
+         "id": "432:498",
          "isAsset": false,
-         "width": 1080,
-         "name": "Rectangle 75",
+         "width": 1584,
+         "name": "Rectangle 2",
          "type": "RECTANGLE",
          "scrollBehavior": "SCROLLS",
          "blendMode": "PASS_THROUGH",
          "absoluteBoundingBox": {
-            "x": 20584,
-            "y": -3693,
-            "width": 1080,
-            "height": 1080
+            "x": -4140,
+            "y": -112,
+            "width": 1584,
+            "height": 398
          },
          "absoluteRenderBounds": {
-            "x": 20584,
-            "y": -3693,
-            "width": 1080,
-            "height": 1080
+            "x": -4140,
+            "y": -111,
+            "width": 1584,
+            "height": 396
          },
          "constraints": {
             "vertical": "TOP",
@@ -36,141 +36,37 @@
                "blendMode": "NORMAL",
                "type": "SOLID",
                "color": {
-                  "r": 0.9519792199134827,
-                  "g": 0.9519792199134827,
-                  "b": 0.8968935012817383,
+                  "r": 0.10588235408067703,
+                  "g": 0.364705890417099,
+                  "b": 0.3333333432674408,
                   "a": 1
                }
             }
          ],
          "strokes": [],
-         "strokeWeight": 1,
+         "strokeWeight": 1.3200000524520874,
          "strokeAlign": "INSIDE",
          "effects": []
       },
       {
-         "id": "191:629",
-         "isAsset": false,
-         "width": 649,
-         "name": "new in shop.",
-         "type": "TEXT",
-         "scrollBehavior": "SCROLLS",
-         "blendMode": "PASS_THROUGH",
-         "absoluteBoundingBox": {
-            "x": 20800,
-            "y": -3626,
-            "width": 649,
-            "height": 68
-         },
-         "absoluteRenderBounds": {
-            "x": 20802.3046875,
-            "y": -3630.47998046875,
-            "width": 641.986328125,
-            "height": 93.887939453125
-         },
-         "constraints": {
-            "vertical": "TOP",
-            "horizontal": "CENTER"
-         },
-         "fills": [
-            {
-               "blendMode": "NORMAL",
-               "type": "SOLID",
-               "color": {
-                  "r": 0.011214759200811386,
-                  "g": 0.30028554797172546,
-                  "b": 0.43411457538604736,
-                  "a": 1
-               }
-            }
-         ],
-         "strokes": [],
-         "strokeWeight": 1,
-         "strokeAlign": "OUTSIDE",
-         "effects": [],
-         "characters": "new in shop.",
-         "style": {
-            "fontFamily": "RobotoSerif",
-            "fontPostScriptName": "Roboto-Bold",
-            "fontWeight": 700,
-            "textCase": "LOWER",
-            "textAutoResize": "WIDTH_AND_HEIGHT",
-            "fontSize": 96,
-            "textAlignHorizontal": "LEFT",
-            "textAlignVertical": "CENTER",
-            "leadingTrim": "CAP_HEIGHT",
-            "letterSpacing": 4.32,
-            "lineHeightPx": 112.41600036621094,
-            "lineHeightPercent": 100,
-            "lineHeightUnit": "INTRINSIC_%"
-         },
-         "layoutVersion": 4,
-         "characterStyleOverrides": [],
-         "styleOverrideTable": {},
-         "lineTypes": [
-            "NONE"
-         ],
-         "lineIndentations": [
-            0
-         ]
-      },
-      {
-         "id": "191:652",
+         "id": "432:499",
          "isAsset": true,
-         "width": 690,
-         "name": "image_6",
-         "type": "RECTANGLE",
-         "scrollBehavior": "SCROLLS",
-         "blendMode": "PASS_THROUGH",
-         "absoluteBoundingBox": {
-            "x": 20779,
-            "y": -3498,
-            "width": 690,
-            "height": 690
-         },
-         "absoluteRenderBounds": {
-            "x": 20779,
-            "y": -3498,
-            "width": 690,
-            "height": 690
-         },
-         "preserveRatio": true,
-         "constraints": {
-            "vertical": "TOP",
-            "horizontal": "LEFT"
-         },
-         "fills": [
-            {
-               "blendMode": "NORMAL",
-               "type": "IMAGE",
-               "scaleMode": "FILL",
-               "imageRef": "61b0d53542f7e67af0993d768e268ca3766e7afd"
-            }
-         ],
-         "strokes": [],
-         "strokeWeight": 1,
-         "strokeAlign": "INSIDE",
-         "effects": []
-      },
-      {
-         "id": "191:635",
-         "isAsset": true,
-         "width": 47,
+         "width": 90,
          "name": "image_5",
-         "type": "ELLIPSE",
+         "type": "RECTANGLE",
          "scrollBehavior": "SCROLLS",
          "blendMode": "PASS_THROUGH",
          "absoluteBoundingBox": {
-            "x": 20848,
-            "y": -3472,
-            "width": 47,
-            "height": 47
+            "x": -3052,
+            "y": 66,
+            "width": 90,
+            "height": 65.5
          },
          "absoluteRenderBounds": {
-            "x": 20848,
-            "y": -3472,
-            "width": 47,
-            "height": 47
+            "x": -3052,
+            "y": 66,
+            "width": 90,
+            "height": 65.5
          },
          "preserveRatio": true,
          "constraints": {
@@ -182,38 +78,33 @@
                "blendMode": "NORMAL",
                "type": "IMAGE",
                "scaleMode": "FILL",
-               "imageRef": "e7b6cbabb07b22bbe5554bf54efcbb74e4a7c2ad"
+               "imageRef": "14b9f0e3cb14d5b7022e42afc571e4cade05dbc6"
             }
          ],
          "strokes": [],
          "strokeWeight": 1,
          "strokeAlign": "INSIDE",
-         "effects": [],
-         "arcData": {
-            "startingAngle": 0,
-            "endingAngle": 6.2831854820251465,
-            "innerRadius": 0
-         }
+         "effects": []
       },
       {
-         "id": "191:636",
+         "id": "432:500",
          "isAsset": false,
-         "width": 194,
-         "name": "reallygreatsite",
+         "width": 89,
+         "name": "LOGO",
          "type": "TEXT",
          "scrollBehavior": "SCROLLS",
          "blendMode": "PASS_THROUGH",
          "absoluteBoundingBox": {
-            "x": 20920,
-            "y": -3457,
-            "width": 194,
-            "height": 19
+            "x": -3973,
+            "y": -90.00005340576172,
+            "width": 89,
+            "height": 9.677925109863281
          },
          "absoluteRenderBounds": {
-            "x": 20921.85546875,
-            "y": -3457.666259765625,
-            "width": 190.263671875,
-            "height": 25.27978515625
+            "x": -3970.26123046875,
+            "y": -91.44916534423828,
+            "width": 84.77001953125,
+            "height": 21.67974853515625
          },
          "constraints": {
             "vertical": "TOP",
@@ -224,30 +115,28 @@
                "blendMode": "NORMAL",
                "type": "SOLID",
                "color": {
-                  "r": 0,
-                  "g": 0,
-                  "b": 0,
+                  "r": 1,
+                  "g": 1,
+                  "b": 1,
                   "a": 1
                }
             }
          ],
          "strokes": [],
-         "strokeWeight": 1,
+         "strokeWeight": 0.7207362651824951,
          "strokeAlign": "OUTSIDE",
          "effects": [],
-         "characters": "reallygreatsite",
+         "characters": "LOGO",
          "style": {
-            "fontFamily": "Inter",
-            "fontPostScriptName": "Inter-Medium",
-            "fontWeight": 500,
-            "textCase": "LOWER",
-            "textAutoResize": "WIDTH_AND_HEIGHT",
-            "fontSize": 26,
+            "fontFamily": "Josefin Sans",
+            "fontPostScriptName": "JosefinSans-Bold",
+            "fontWeight": 700,
+            "fontSize": 28.829450607299805,
             "textAlignHorizontal": "LEFT",
-            "textAlignVertical": "CENTER",
+            "textAlignVertical": "TOP",
             "leadingTrim": "CAP_HEIGHT",
-            "letterSpacing": 1.17,
-            "lineHeightPx": 31.46590805053711,
+            "letterSpacing": 0,
+            "lineHeightPx": 28.829450607299805,
             "lineHeightPercent": 100,
             "lineHeightUnit": "INTRINSIC_%"
          },
@@ -262,58 +151,56 @@
          ]
       },
       {
-         "id": "191:637",
+         "id": "432:501",
          "isAsset": false,
-         "width": 506,
-         "name": "shop now at www.reallygreatsite.com",
+         "width": 62.791412353515625,
+         "name": "SLOGAN",
          "type": "TEXT",
          "scrollBehavior": "SCROLLS",
          "blendMode": "PASS_THROUGH",
          "absoluteBoundingBox": {
-            "x": 20871,
-            "y": -2760,
-            "width": 506,
-            "height": 19
+            "x": -3970.837890625,
+            "y": -66.24858856201172,
+            "width": 62.79150390625,
+            "height": 4.9697418212890625
          },
          "absoluteRenderBounds": {
-            "x": 20872.228515625,
-            "y": -2760.666259765625,
-            "width": 502.853515625,
-            "height": 25.27978515625
+            "x": -3970.131591796875,
+            "y": -67.10287475585938,
+            "width": 60.311279296875,
+            "height": 11.18582534790039
          },
          "constraints": {
             "vertical": "TOP",
-            "horizontal": "CENTER"
+            "horizontal": "LEFT"
          },
          "fills": [
             {
                "blendMode": "NORMAL",
                "type": "SOLID",
                "color": {
-                  "r": 0,
-                  "g": 0,
-                  "b": 0,
+                  "r": 1,
+                  "g": 1,
+                  "b": 1,
                   "a": 1
                }
             }
          ],
          "strokes": [],
-         "strokeWeight": 1,
+         "strokeWeight": 0.7207362651824951,
          "strokeAlign": "OUTSIDE",
          "effects": [],
-         "characters": "shop now at www.reallygreatsite.com",
+         "characters": "SLOGAN",
          "style": {
-            "fontFamily": "Inter",
-            "fontPostScriptName": "Inter-Medium",
-            "fontWeight": 500,
-            "textCase": "LOWER",
-            "textAutoResize": "WIDTH_AND_HEIGHT",
-            "fontSize": 26,
+            "fontFamily": "Josefin Sans",
+            "fontPostScriptName": "JosefinSans-Regular",
+            "fontWeight": 400,
+            "fontSize": 14.414725303649902,
             "textAlignHorizontal": "LEFT",
-            "textAlignVertical": "CENTER",
+            "textAlignVertical": "TOP",
             "leadingTrim": "CAP_HEIGHT",
-            "letterSpacing": 1.17,
-            "lineHeightPx": 31.46590805053711,
+            "letterSpacing": 0,
+            "lineHeightPx": 14.414725303649902,
             "lineHeightPercent": 100,
             "lineHeightUnit": "INTRINSIC_%"
          },
@@ -328,25 +215,160 @@
          ]
       },
       {
-         "id": "191:638",
-         "isAsset": true,
-         "width": 382,
-         "name": "image_4",
-         "type": "RECTANGLE",
+         "id": "432:502",
+         "isAsset": false,
+         "width": 389.7209167480469,
+         "name": "Boost Your Business",
+         "type": "TEXT",
          "scrollBehavior": "SCROLLS",
          "blendMode": "PASS_THROUGH",
          "absoluteBoundingBox": {
-            "x": 21247,
-            "y": -3125,
-            "width": 382,
-            "height": 78
+            "x": -4046,
+            "y": 30,
+            "width": 389.720947265625,
+            "height": 71.05813598632812
          },
          "absoluteRenderBounds": {
-            "x": 21247,
-            "y": -3125,
-            "width": 382,
-            "height": 78
+            "x": -4042.7607421875,
+            "y": 29.900020599365234,
+            "width": 385.80810546875,
+            "height": 136.11529541015625
          },
+         "constraints": {
+            "vertical": "TOP",
+            "horizontal": "LEFT"
+         },
+         "fills": [
+            {
+               "blendMode": "NORMAL",
+               "type": "SOLID",
+               "color": {
+                  "r": 1,
+                  "g": 1,
+                  "b": 1,
+                  "a": 1
+               }
+            }
+         ],
+         "strokes": [],
+         "strokeWeight": 0.9669767618179321,
+         "strokeAlign": "OUTSIDE",
+         "effects": [],
+         "characters": "Boost Your\nBusiness",
+         "style": {
+            "fontFamily": "Jomhuria",
+            "fontPostScriptName": "Jomhuria-Regular",
+            "fontWeight": 400,
+            "fontSize": 145.04652404785156,
+            "textAlignHorizontal": "LEFT",
+            "textAlignVertical": "TOP",
+            "leadingTrim": "CAP_HEIGHT",
+            "letterSpacing": 0,
+            "lineHeightPx": 78.32511901855469,
+            "lineHeightPercent": 53.999996185302734,
+            "lineHeightPercentFontSize": 53.999996185302734,
+            "lineHeightUnit": "FONT_SIZE_%"
+         },
+         "layoutVersion": 4,
+         "characterStyleOverrides": [],
+         "styleOverrideTable": {},
+         "lineTypes": [
+            "NONE",
+            "NONE"
+         ],
+         "lineIndentations": [
+            0,
+            0
+         ]
+      },
+      {
+         "id": "432:503",
+         "isAsset": false,
+         "width": 504,
+         "name": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+         "type": "TEXT",
+         "scrollBehavior": "SCROLLS",
+         "blendMode": "PASS_THROUGH",
+         "absoluteBoundingBox": {
+            "x": -4046,
+            "y": 197,
+            "width": 504,
+            "height": 19.779067993164062
+         },
+         "absoluteRenderBounds": {
+            "x": -4043.806884765625,
+            "y": 195.0166015625,
+            "width": 499.82763671875,
+            "height": 53.533843994140625
+         },
+         "constraints": {
+            "vertical": "TOP",
+            "horizontal": "LEFT"
+         },
+         "fills": [
+            {
+               "blendMode": "NORMAL",
+               "type": "SOLID",
+               "color": {
+                  "r": 1,
+                  "g": 1,
+                  "b": 1,
+                  "a": 1
+               }
+            }
+         ],
+         "strokes": [],
+         "strokeWeight": 0.9669767618179321,
+         "strokeAlign": "OUTSIDE",
+         "effects": [],
+         "characters": "Lorem Ipsum is simply dummy text of the\nprinting and typesetting industry.",
+         "style": {
+            "fontFamily": "Josefin Sans",
+            "fontPostScriptName": "JosefinSans-Regular",
+            "fontWeight": 400,
+            "fontSize": 27.075349807739258,
+            "textAlignHorizontal": "LEFT",
+            "textAlignVertical": "TOP",
+            "leadingTrim": "CAP_HEIGHT",
+            "letterSpacing": 0,
+            "lineHeightPx": 27.075349807739258,
+            "lineHeightPercent": 100,
+            "lineHeightUnit": "INTRINSIC_%"
+         },
+         "layoutVersion": 4,
+         "characterStyleOverrides": [],
+         "styleOverrideTable": {},
+         "lineTypes": [
+            "NONE",
+            "NONE"
+         ],
+         "lineIndentations": [
+            0,
+            0
+         ]
+      },
+      {
+         "id": "432:504",
+         "isAsset": true,
+         "width": 165,
+         "name": "image_4",
+         "type": "VECTOR",
+         "scrollBehavior": "SCROLLS",
+         "rotation": 3.141592653589793,
+         "blendMode": "PASS_THROUGH",
+         "absoluteBoundingBox": {
+            "x": -2721,
+            "y": 200,
+            "width": 165,
+            "height": 0
+         },
+         "absoluteRenderBounds": {
+            "x": -2731.56005859375,
+            "y": 122.23656463623047,
+            "width": 175.56005859375,
+            "height": 155.52685546875
+         },
+         "preserveRatio": true,
          "constraints": {
             "vertical": "TOP",
             "horizontal": "LEFT"
@@ -356,233 +378,192 @@
                "blendMode": "NORMAL",
                "type": "IMAGE",
                "scaleMode": "FILL",
-               "imageRef": "96600cc35011a581877a05cb510b2d963e749a92"
+               "imageRef": "3b1f2fbeaf50a297858969e716dc57f7c900388e"
             }
          ],
+         "fillOverrideTable": {
+            "1": null
+         },
          "strokes": [
             {
                "blendMode": "NORMAL",
                "type": "SOLID",
                "color": {
-                  "r": 0,
-                  "g": 0,
-                  "b": 0,
+                  "r": 0.6431372761726379,
+                  "g": 0.6941176652908325,
+                  "b": 0.9254902005195618,
                   "a": 1
                }
             }
          ],
-         "strokeWeight": 4,
-         "strokeAlign": "INSIDE",
-         "effects": [],
-         "cornerRadius": 57,
-         "cornerSmoothing": 0
+         "strokeWeight": 21.1200008392334,
+         "strokeAlign": "CENTER",
+         "effects": []
       },
       {
-         "id": "191:639",
-         "isAsset": false,
-         "width": 249,
-         "name": "fashion blouse",
-         "type": "TEXT",
-         "scrollBehavior": "SCROLLS",
-         "blendMode": "PASS_THROUGH",
-         "absoluteBoundingBox": {
-            "x": 21314,
-            "y": -3097,
-            "width": 249,
-            "height": 23
-         },
-         "absoluteRenderBounds": {
-            "x": 21314.544921875,
-            "y": -3098.602294921875,
-            "width": 246.509765625,
-            "height": 24.943115234375
-         },
-         "constraints": {
-            "vertical": "TOP",
-            "horizontal": "LEFT"
-         },
-         "fills": [
-            {
-               "blendMode": "NORMAL",
-               "type": "SOLID",
-               "color": {
-                  "r": 0.027450980618596077,
-                  "g": 0.239215686917305,
-                  "b": 0.33725491166114807,
-                  "a": 1
-               }
-            }
-         ],
-         "strokes": [],
-         "strokeWeight": 1,
-         "strokeAlign": "OUTSIDE",
-         "effects": [],
-         "characters": "fashion blouse",
-         "style": {
-            "fontFamily": "Inter",
-            "fontPostScriptName": "Inter-Bold",
-            "fontWeight": 700,
-            "textCase": "LOWER",
-            "textAutoResize": "WIDTH_AND_HEIGHT",
-            "fontSize": 32,
-            "textAlignHorizontal": "LEFT",
-            "textAlignVertical": "CENTER",
-            "leadingTrim": "CAP_HEIGHT",
-            "letterSpacing": 1.44,
-            "lineHeightPx": 38.727272033691406,
-            "lineHeightPercent": 100,
-            "lineHeightUnit": "INTRINSIC_%"
-         },
-         "layoutVersion": 4,
-         "characterStyleOverrides": [],
-         "styleOverrideTable": {},
-         "lineTypes": [
-            "NONE"
-         ],
-         "lineIndentations": [
-            0
-         ]
-      },
-      {
-         "id": "191:640",
+         "id": "432:505",
          "isAsset": true,
-         "width": 42.37858581542969,
+         "width": 1139,
          "name": "image_3",
          "type": "VECTOR",
          "scrollBehavior": "SCROLLS",
          "blendMode": "PASS_THROUGH",
          "absoluteBoundingBox": {
-            "x": 20849,
-            "y": -2876,
-            "width": 42.37890625,
-            "height": 36.315673828125
+            "x": -4061,
+            "y": -112,
+            "width": 1139,
+            "height": 110
          },
          "absoluteRenderBounds": {
-            "x": 20849,
-            "y": -2876,
-            "width": 42.37890625,
-            "height": 36.315673828125
+            "x": -4073.199951171875,
+            "y": -111,
+            "width": 1151.199951171875,
+            "height": 121.19999694824219
          },
          "constraints": {
-            "vertical": "SCALE",
-            "horizontal": "SCALE"
+            "vertical": "TOP",
+            "horizontal": "LEFT"
          },
          "fills": [
             {
                "blendMode": "NORMAL",
                "type": "IMAGE",
                "scaleMode": "FILL",
-               "imageRef": "5b9797a67c5ea30a7faff8d63e56734063615b5d"
+               "imageRef": "a553e8d48c2bc0573b824bcef1c5805b0535e319"
             }
          ],
+         "fillOverrideTable": {
+            "29": null
+         },
          "strokes": [
             {
                "blendMode": "NORMAL",
                "type": "SOLID",
                "color": {
-                  "r": 0,
-                  "g": 0,
-                  "b": 0,
+                  "r": 0.6431372761726379,
+                  "g": 0.6941176652908325,
+                  "b": 0.9254902005195618,
                   "a": 1
                }
             }
          ],
-         "strokeWeight": 0,
-         "strokeAlign": "INSIDE",
-         "effects": []
+         "strokeWeight": 24.399999618530273,
+         "strokeAlign": "CENTER",
+         "effects": [],
+         "rectangleCornerRadii": [
+            0,
+            0,
+            0,
+            0
+         ],
+         "cornerSmoothing": 0
       },
       {
-         "id": "191:641",
+         "id": "432:506",
          "isAsset": true,
-         "width": 42.37858581542969,
+         "width": 451,
          "name": "image_2",
-         "type": "VECTOR",
+         "type": "RECTANGLE",
          "scrollBehavior": "SCROLLS",
          "blendMode": "PASS_THROUGH",
          "absoluteBoundingBox": {
-            "x": 20918.8125,
-            "y": -2874,
-            "width": 42.37890625,
-            "height": 31.89697265625
+            "x": -3007,
+            "y": -114,
+            "width": 451,
+            "height": 253
          },
          "absoluteRenderBounds": {
-            "x": 20918.8125,
-            "y": -2874,
-            "width": 42.37890625,
-            "height": 31.89697265625
+            "x": -3007,
+            "y": -111,
+            "width": 451,
+            "height": 250
          },
-         "preserveRatio": true,
          "constraints": {
-            "vertical": "SCALE",
-            "horizontal": "SCALE"
+            "vertical": "TOP",
+            "horizontal": "LEFT"
          },
          "fills": [
             {
                "blendMode": "NORMAL",
                "type": "IMAGE",
-               "scaleMode": "FILL",
-               "imageRef": "df89d03f0c584b64a395c467f45ece06a290ce77"
+               "scaleMode": "STRETCH",
+               "imageRef": "bc181810157e40b2f23d9b73bd3a7a2605e8d40e",
+               "imageTransform": [
+                  [
+                     0.957658588886261,
+                     0,
+                     0.031133243814110756
+                  ],
+                  [
+                     0,
+                     0.7696139216423035,
+                     0.03611456975340843
+                  ]
+               ]
             }
          ],
-         "fillOverrideTable": {
-            "1": null,
-            "2": null
-         },
          "strokes": [],
-         "strokeWeight": 2.1993300914764404,
+         "strokeWeight": 1.3200000524520874,
          "strokeAlign": "INSIDE",
-         "effects": []
+         "effects": [],
+         "rectangleCornerRadii": [
+            0,
+            0,
+            0,
+            151.8000030517578
+         ],
+         "cornerSmoothing": 0
       },
       {
-         "id": "191:642",
+         "id": "432:507",
          "isAsset": true,
-         "width": 42.37858581542969,
+         "width": 139.5,
          "name": "image_1",
-         "type": "VECTOR",
+         "type": "RECTANGLE",
          "scrollBehavior": "SCROLLS",
          "blendMode": "PASS_THROUGH",
          "absoluteBoundingBox": {
-            "x": 21356,
-            "y": -2882,
-            "width": 42.37890625,
-            "height": 40.26416015625
+            "x": -2873,
+            "y": 240,
+            "width": 139.5,
+            "height": 39.5
          },
          "absoluteRenderBounds": {
-            "x": 21356,
-            "y": -2882,
-            "width": 42.37890625,
-            "height": 40.26416015625
+            "x": -2873,
+            "y": 240,
+            "width": 139.5,
+            "height": 39.5
          },
          "preserveRatio": true,
          "constraints": {
-            "vertical": "SCALE",
-            "horizontal": "SCALE"
+            "vertical": "TOP",
+            "horizontal": "LEFT"
          },
          "fills": [
             {
                "blendMode": "NORMAL",
                "type": "IMAGE",
                "scaleMode": "FILL",
-               "imageRef": "dca723a6358b00389ea2c8caa5f3ead991e11fee"
+               "imageRef": "edf0d2a98cd90c1ec2b1cfb3a6ef77449203044a"
             }
          ],
          "strokes": [],
-         "strokeWeight": 0.18918965756893158,
+         "strokeWeight": 1,
          "strokeAlign": "INSIDE",
          "effects": []
       }
    ],
    "absoluteBoundingBox": {
-      "x": 20584,
-      "y": -3693,
-      "width": 1080,
-      "height": 1080
+      "x": -4140,
+      "y": -111,
+      "width": 1584,
+      "height": 396
    },
    "absoluteRenderBounds": {
-      "x": 20584,
-      "y": -3693,
-      "width": 1080,
-      "height": 1080
+      "x": -4140,
+      "y": -111,
+      "width": 1584,
+      "height": 396
    },
    "constraints": {
       "vertical": "TOP",
@@ -614,7 +595,7 @@
       }
    ],
    "strokes": [],
-   "strokeWeight": 1,
+   "strokeWeight": 1.3200000524520874,
    "strokeAlign": "INSIDE",
    "backgroundColor": {
       "r": 1,
@@ -622,5 +603,6 @@
       "b": 1,
       "a": 1
    },
+   "overflowDirection": "HORIZONTAL_AND_VERTICAL_SCROLLING",
    "effects": []
 }
