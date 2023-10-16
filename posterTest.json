@@ -84,6 +84,16 @@
          "strokes": [],
          "strokeWeight": 0.6825000047683716,
          "strokeAlign": "INSIDE",
+         "exportSettings": [
+            {
+               "suffix": "",
+               "format": "PNG",
+               "constraint": {
+                  "type": "SCALE",
+                  "value": 1
+               }
+            }
+         ],
          "effects": []
       },
       {
@@ -396,6 +406,16 @@
          ],
          "strokeWeight": 16.652999877929688,
          "strokeAlign": "CENTER",
+         "exportSettings": [
+            {
+               "suffix": "",
+               "format": "PNG",
+               "constraint": {
+                  "type": "SCALE",
+                  "value": 1
+               }
+            }
+         ],
          "effects": [],
          "rectangleCornerRadii": [
             0,
@@ -458,6 +478,16 @@
          "strokeAlign": "CENTER",
          "strokeJoin": "ROUND",
          "strokeCap": "ROUND",
+         "exportSettings": [
+            {
+               "suffix": "",
+               "format": "PNG",
+               "constraint": {
+                  "type": "SCALE",
+                  "value": 1
+               }
+            }
+         ],
          "effects": [],
          "rectangleCornerRadii": [
             0,
@@ -514,6 +544,16 @@
          "strokes": [],
          "strokeWeight": 0.9009000658988953,
          "strokeAlign": "INSIDE",
+         "exportSettings": [
+            {
+               "suffix": "",
+               "format": "PNG",
+               "constraint": {
+                  "type": "SCALE",
+                  "value": 1
+               }
+            }
+         ],
          "effects": [],
          "rectangleCornerRadii": [
             0,
@@ -559,6 +599,16 @@
          "strokes": [],
          "strokeWeight": 0.6825000047683716,
          "strokeAlign": "INSIDE",
+         "exportSettings": [
+            {
+               "suffix": "",
+               "format": "PNG",
+               "constraint": {
+                  "type": "SCALE",
+                  "value": 1
+               }
+            }
+         ],
          "effects": []
       }
    ],
