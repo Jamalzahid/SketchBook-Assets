@@ -129,7 +129,7 @@
          "characters": "LOGO",
          "style": {
             "fontFamily": "Josefin Sans",
-            "fontPostScriptName": "Inter-Bold",
+            "fontPostScriptName": "JosefinSans-Bold",
             "fontWeight": 700,
             "fontSize": 19.67609977722168,
             "textAlignHorizontal": "LEFT",
@@ -193,7 +193,7 @@
          "characters": "SLOGAN",
          "style": {
             "fontFamily": "Josefin Sans",
-            "fontPostScriptName": "Inter-Regular",
+            "fontPostScriptName": "JosefinSans-Regular",
             "fontWeight": 400,
             "fontSize": 9.83804988861084,
             "textAlignHorizontal": "LEFT",
@@ -257,7 +257,7 @@
          "characters": "Boost Your\nBusiness",
          "style": {
             "fontFamily": "Jomhuria",
-            "fontPostScriptName": "Inter-Regular",
+            "fontPostScriptName": "Jomhuria-Regular",
             "fontWeight": 400,
             "fontSize": 98.99425506591797,
             "textAlignHorizontal": "LEFT",
@@ -324,7 +324,7 @@
          "characters": "Lorem Ipsum is simply dummy text of the\nprinting and typesetting industry.",
          "style": {
             "fontFamily": "Josefin Sans",
-            "fontPostScriptName": "Inter-Regular",
+            "fontPostScriptName": "JosefinSans-Regular",
             "fontWeight": 400,
             "fontSize": 18.478925704956055,
             "textAlignHorizontal": "LEFT",
