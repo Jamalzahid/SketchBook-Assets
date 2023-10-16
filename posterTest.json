@@ -1,5 +1,5 @@
 {
-   "id": "432:497",
+   "id": "216:607",
    "isAsset": false,
    "width": 1584,
    "name": "Frame 224",
@@ -8,7 +8,7 @@
    "blendMode": "PASS_THROUGH",
    "children": [
       {
-         "id": "432:498",
+         "id": "216:608",
          "isAsset": false,
          "width": 1584,
          "name": "Rectangle 2",
@@ -16,14 +16,14 @@
          "scrollBehavior": "SCROLLS",
          "blendMode": "PASS_THROUGH",
          "absoluteBoundingBox": {
-            "x": -4140,
-            "y": -112,
+            "x": -1449,
+            "y": 13667,
             "width": 1584,
             "height": 398
          },
          "absoluteRenderBounds": {
-            "x": -4140,
-            "y": -111,
+            "x": -1449,
+            "y": 13668,
             "width": 1584,
             "height": 396
          },
@@ -49,7 +49,7 @@
          "effects": []
       },
       {
-         "id": "432:499",
+         "id": "216:679",
          "isAsset": true,
          "width": 90,
          "name": "image_5",
@@ -57,14 +57,14 @@
          "scrollBehavior": "SCROLLS",
          "blendMode": "PASS_THROUGH",
          "absoluteBoundingBox": {
-            "x": -3052,
-            "y": 66,
+            "x": -361,
+            "y": 13845,
             "width": 90,
             "height": 65.5
          },
          "absoluteRenderBounds": {
-            "x": -3052,
-            "y": 66,
+            "x": -361,
+            "y": 13845,
             "width": 90,
             "height": 65.5
          },
@@ -84,20 +84,10 @@
          "strokes": [],
          "strokeWeight": 1,
          "strokeAlign": "INSIDE",
-         "exportSettings": [
-            {
-               "suffix": "",
-               "format": "PNG",
-               "constraint": {
-                  "type": "SCALE",
-                  "value": 1
-               }
-            }
-         ],
          "effects": []
       },
       {
-         "id": "432:500",
+         "id": "216:641",
          "isAsset": false,
          "width": 89,
          "name": "LOGO",
@@ -105,16 +95,16 @@
          "scrollBehavior": "SCROLLS",
          "blendMode": "PASS_THROUGH",
          "absoluteBoundingBox": {
-            "x": -3973,
-            "y": -90.00005340576172,
+            "x": -1282,
+            "y": 13689,
             "width": 89,
-            "height": 9.677925109863281
+            "height": 9.677734375
          },
          "absoluteRenderBounds": {
-            "x": -3970.26123046875,
-            "y": -91.44916534423828,
-            "width": 84.77001953125,
-            "height": 21.67974853515625
+            "x": -1279.26123046875,
+            "y": 13687.55078125,
+            "width": 84.7701416015625,
+            "height": 21.6796875
          },
          "constraints": {
             "vertical": "TOP",
@@ -161,7 +151,7 @@
          ]
       },
       {
-         "id": "432:501",
+         "id": "216:642",
          "isAsset": false,
          "width": 62.791412353515625,
          "name": "SLOGAN",
@@ -169,16 +159,16 @@
          "scrollBehavior": "SCROLLS",
          "blendMode": "PASS_THROUGH",
          "absoluteBoundingBox": {
-            "x": -3970.837890625,
-            "y": -66.24858856201172,
-            "width": 62.79150390625,
-            "height": 4.9697418212890625
+            "x": -1279.837890625,
+            "y": 13712.7509765625,
+            "width": 62.7913818359375,
+            "height": 4.9697265625
          },
          "absoluteRenderBounds": {
-            "x": -3970.131591796875,
-            "y": -67.10287475585938,
+            "x": -1279.131591796875,
+            "y": 13711.896484375,
             "width": 60.311279296875,
-            "height": 11.18582534790039
+            "height": 11.185546875
          },
          "constraints": {
             "vertical": "TOP",
@@ -225,7 +215,7 @@
          ]
       },
       {
-         "id": "432:502",
+         "id": "216:643",
          "isAsset": false,
          "width": 389.7209167480469,
          "name": "Boost Your Business",
@@ -233,16 +223,16 @@
          "scrollBehavior": "SCROLLS",
          "blendMode": "PASS_THROUGH",
          "absoluteBoundingBox": {
-            "x": -4046,
-            "y": 30,
+            "x": -1355,
+            "y": 13809,
             "width": 389.720947265625,
-            "height": 71.05813598632812
+            "height": 71.05859375
          },
          "absoluteRenderBounds": {
-            "x": -4042.7607421875,
-            "y": 29.900020599365234,
-            "width": 385.80810546875,
-            "height": 136.11529541015625
+            "x": -1351.7606201171875,
+            "y": 13808.900390625,
+            "width": 385.807861328125,
+            "height": 136.115234375
          },
          "constraints": {
             "vertical": "TOP",
@@ -292,7 +282,7 @@
          ]
       },
       {
-         "id": "432:503",
+         "id": "216:644",
          "isAsset": false,
          "width": 504,
          "name": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
@@ -300,16 +290,16 @@
          "scrollBehavior": "SCROLLS",
          "blendMode": "PASS_THROUGH",
          "absoluteBoundingBox": {
-            "x": -4046,
-            "y": 197,
+            "x": -1355,
+            "y": 13976,
             "width": 504,
-            "height": 19.779067993164062
+            "height": 19.779296875
          },
          "absoluteRenderBounds": {
-            "x": -4043.806884765625,
-            "y": 195.0166015625,
+            "x": -1352.806884765625,
+            "y": 13974.0166015625,
             "width": 499.82763671875,
-            "height": 53.533843994140625
+            "height": 53.5341796875
          },
          "constraints": {
             "vertical": "TOP",
@@ -358,70 +348,7 @@
          ]
       },
       {
-         "id": "432:504",
-         "isAsset": true,
-         "width": 165,
-         "name": "image_4",
-         "type": "VECTOR",
-         "scrollBehavior": "SCROLLS",
-         "rotation": 3.141592653589793,
-         "blendMode": "PASS_THROUGH",
-         "absoluteBoundingBox": {
-            "x": -2721,
-            "y": 200,
-            "width": 165,
-            "height": 0
-         },
-         "absoluteRenderBounds": {
-            "x": -2731.56005859375,
-            "y": 122.23656463623047,
-            "width": 175.56005859375,
-            "height": 155.52685546875
-         },
-         "preserveRatio": true,
-         "constraints": {
-            "vertical": "TOP",
-            "horizontal": "LEFT"
-         },
-         "fills": [
-            {
-               "blendMode": "NORMAL",
-               "type": "IMAGE",
-               "scaleMode": "FILL",
-               "imageRef": "3b1f2fbeaf50a297858969e716dc57f7c900388e"
-            }
-         ],
-         "fillOverrideTable": {
-            "1": null
-         },
-         "strokes": [
-            {
-               "blendMode": "NORMAL",
-               "type": "SOLID",
-               "color": {
-                  "r": 0.6431372761726379,
-                  "g": 0.6941176652908325,
-                  "b": 0.9254902005195618,
-                  "a": 1
-               }
-            }
-         ],
-         "strokeWeight": 21.1200008392334,
-         "strokeAlign": "CENTER",
-         "exportSettings": [
-            {
-               "suffix": "",
-               "format": "PNG",
-               "constraint": {
-                  "type": "SCALE",
-                  "value": 1
-               }
-            }
-         ],
-         "effects": []
-      },
-      {
-         "id": "432:505",
+         "id": "216:646",
          "isAsset": true,
          "width": 1139,
          "name": "image_3",
@@ -429,16 +356,16 @@
          "scrollBehavior": "SCROLLS",
          "blendMode": "PASS_THROUGH",
          "absoluteBoundingBox": {
-            "x": -4061,
-            "y": -112,
+            "x": -1370,
+            "y": 13667,
             "width": 1139,
             "height": 110
          },
          "absoluteRenderBounds": {
-            "x": -4073.199951171875,
-            "y": -111,
+            "x": -1382.199951171875,
+            "y": 13668,
             "width": 1151.199951171875,
-            "height": 121.19999694824219
+            "height": 121.2001953125
          },
          "constraints": {
             "vertical": "TOP",
@@ -469,16 +396,6 @@
          ],
          "strokeWeight": 24.399999618530273,
          "strokeAlign": "CENTER",
-         "exportSettings": [
-            {
-               "suffix": "",
-               "format": "PNG",
-               "constraint": {
-                  "type": "SCALE",
-                  "value": 1
-               }
-            }
-         ],
          "effects": [],
          "rectangleCornerRadii": [
             0,
@@ -489,7 +406,69 @@
          "cornerSmoothing": 0
       },
       {
-         "id": "432:506",
+         "id": "216:645",
+         "isAsset": true,
+         "width": 165,
+         "name": "image_4",
+         "type": "VECTOR",
+         "scrollBehavior": "SCROLLS",
+         "rotation": 3.141592653589793,
+         "blendMode": "PASS_THROUGH",
+         "absoluteBoundingBox": {
+            "x": -30,
+            "y": 13911.5,
+            "width": 165,
+            "height": 126.5
+         },
+         "absoluteRenderBounds": {
+            "x": -40.56000900268555,
+            "y": 13900.9404296875,
+            "width": 175.56000900268555,
+            "height": 147.6201171875
+         },
+         "preserveRatio": true,
+         "constraints": {
+            "vertical": "TOP",
+            "horizontal": "LEFT"
+         },
+         "fills": [
+            {
+               "blendMode": "NORMAL",
+               "type": "IMAGE",
+               "scaleMode": "FILL",
+               "imageRef": "7c57e851cfd46207c564ec5acfef6ea85b302f5d"
+            }
+         ],
+         "fillOverrideTable": {
+            "40": null
+         },
+         "strokes": [
+            {
+               "blendMode": "NORMAL",
+               "type": "SOLID",
+               "color": {
+                  "r": 0.6431372761726379,
+                  "g": 0.6941176652908325,
+                  "b": 0.9254902005195618,
+                  "a": 1
+               }
+            }
+         ],
+         "strokeWeight": 21.1200008392334,
+         "strokeAlign": "CENTER",
+         "strokeJoin": "ROUND",
+         "strokeCap": "ROUND",
+         "effects": [],
+         "rectangleCornerRadii": [
+            0,
+            0,
+            0,
+            0
+         ],
+         "cornerSmoothing": 0
+      },
+      {
+         "id": "216:647",
          "isAsset": true,
          "width": 451,
          "name": "image_2",
@@ -497,14 +476,14 @@
          "scrollBehavior": "SCROLLS",
          "blendMode": "PASS_THROUGH",
          "absoluteBoundingBox": {
-            "x": -3007,
-            "y": -114,
+            "x": -316,
+            "y": 13665,
             "width": 451,
             "height": 253
          },
          "absoluteRenderBounds": {
-            "x": -3007,
-            "y": -111,
+            "x": -316,
+            "y": 13668,
             "width": 451,
             "height": 250
          },
@@ -535,16 +514,6 @@
          "strokes": [],
          "strokeWeight": 1.3200000524520874,
          "strokeAlign": "INSIDE",
-         "exportSettings": [
-            {
-               "suffix": "",
-               "format": "PNG",
-               "constraint": {
-                  "type": "SCALE",
-                  "value": 1
-               }
-            }
-         ],
          "effects": [],
          "rectangleCornerRadii": [
             0,
@@ -555,7 +524,7 @@
          "cornerSmoothing": 0
       },
       {
-         "id": "432:507",
+         "id": "216:677",
          "isAsset": true,
          "width": 139.5,
          "name": "image_1",
@@ -563,14 +532,14 @@
          "scrollBehavior": "SCROLLS",
          "blendMode": "PASS_THROUGH",
          "absoluteBoundingBox": {
-            "x": -2873,
-            "y": 240,
+            "x": -182,
+            "y": 14019,
             "width": 139.5,
             "height": 39.5
          },
          "absoluteRenderBounds": {
-            "x": -2873,
-            "y": 240,
+            "x": -182,
+            "y": 14019,
             "width": 139.5,
             "height": 39.5
          },
@@ -590,28 +559,18 @@
          "strokes": [],
          "strokeWeight": 1,
          "strokeAlign": "INSIDE",
-         "exportSettings": [
-            {
-               "suffix": "",
-               "format": "PNG",
-               "constraint": {
-                  "type": "SCALE",
-                  "value": 1
-               }
-            }
-         ],
          "effects": []
       }
    ],
    "absoluteBoundingBox": {
-      "x": -4140,
-      "y": -111,
+      "x": -1449,
+      "y": 13668,
       "width": 1584,
       "height": 396
    },
    "absoluteRenderBounds": {
-      "x": -4140,
-      "y": -111,
+      "x": -1449,
+      "y": 13668,
       "width": 1584,
       "height": 396
    },
