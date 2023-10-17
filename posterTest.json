@@ -1,31 +1,31 @@
 {
-   "id": "408:2",
+   "id": "253:23",
    "isAsset": false,
-   "width": 1000,
-   "name": "Frame 225",
+   "width": 1200,
+   "name": "Frame 256",
    "type": "FRAME",
    "scrollBehavior": "SCROLLS",
    "blendMode": "PASS_THROUGH",
    "children": [
       {
-         "id": "408:3",
+         "id": "253:24",
          "isAsset": false,
-         "width": 1000,
+         "width": 1200,
          "name": "Rectangle 2",
          "type": "RECTANGLE",
          "scrollBehavior": "SCROLLS",
          "blendMode": "PASS_THROUGH",
          "absoluteBoundingBox": {
-            "x": -1530,
-            "y": 10282,
-            "width": 1000,
-            "height": 1500
+            "x": -2290,
+            "y": 1583,
+            "width": 1200,
+            "height": 676
          },
          "absoluteRenderBounds": {
-            "x": -1530,
-            "y": 10282,
-            "width": 1000,
-            "height": 1500
+            "x": -2290,
+            "y": 1583,
+            "width": 1200,
+            "height": 675
          },
          "constraints": {
             "vertical": "TOP",
@@ -44,29 +44,159 @@
             }
          ],
          "strokes": [],
-         "strokeWeight": 0.9259258508682251,
+         "strokeWeight": 1.111111044883728,
          "strokeAlign": "INSIDE",
          "effects": []
       },
       {
-         "id": "408:4",
+         "id": "253:26",
+         "isAsset": false,
+         "width": 153,
+         "name": "LOGO",
+         "type": "TEXT",
+         "scrollBehavior": "SCROLLS",
+         "blendMode": "PASS_THROUGH",
+         "absoluteBoundingBox": {
+            "x": -2174,
+            "y": 1645,
+            "width": 153,
+            "height": 39
+         },
+         "absoluteRenderBounds": {
+            "x": -2170.62890625,
+            "y": 1644.6817626953125,
+            "width": 146.6856689453125,
+            "height": 39.8485107421875
+         },
+         "constraints": {
+            "vertical": "TOP",
+            "horizontal": "LEFT"
+         },
+         "fills": [
+            {
+               "blendMode": "NORMAL",
+               "type": "SOLID",
+               "color": {
+                  "r": 1,
+                  "g": 1,
+                  "b": 1,
+                  "a": 1
+               }
+            }
+         ],
+         "strokes": [],
+         "strokeWeight": 1.111111044883728,
+         "strokeAlign": "OUTSIDE",
+         "effects": [],
+         "characters": "LOGO",
+         "style": {
+            "fontFamily": "Inter",
+            "fontPostScriptName": "Inter-Bold",
+            "fontWeight": 700,
+            "textAutoResize": "WIDTH_AND_HEIGHT",
+            "fontSize": 53.33332824707031,
+            "textAlignHorizontal": "LEFT",
+            "textAlignVertical": "TOP",
+            "leadingTrim": "CAP_HEIGHT",
+            "letterSpacing": 0,
+            "lineHeightPx": 64.54544830322266,
+            "lineHeightPercent": 100,
+            "lineHeightUnit": "INTRINSIC_%"
+         },
+         "layoutVersion": 4,
+         "characterStyleOverrides": [],
+         "styleOverrideTable": {},
+         "lineTypes": [
+            "NONE"
+         ],
+         "lineIndentations": [
+            0
+         ]
+      },
+      {
+         "id": "253:27",
+         "isAsset": false,
+         "width": 73,
+         "name": "SLOGAN",
+         "type": "TEXT",
+         "scrollBehavior": "SCROLLS",
+         "blendMode": "PASS_THROUGH",
+         "absoluteBoundingBox": {
+            "x": -2169.5556640625,
+            "y": 1693.888916015625,
+            "width": 73,
+            "height": 13
+         },
+         "absoluteRenderBounds": {
+            "x": -2168.545654296875,
+            "y": 1693.7828369140625,
+            "width": 70.009521484375,
+            "height": 13.3333740234375
+         },
+         "constraints": {
+            "vertical": "TOP",
+            "horizontal": "LEFT"
+         },
+         "fills": [
+            {
+               "blendMode": "NORMAL",
+               "type": "SOLID",
+               "color": {
+                  "r": 1,
+                  "g": 1,
+                  "b": 1,
+                  "a": 1
+               }
+            }
+         ],
+         "strokes": [],
+         "strokeWeight": 1.111111044883728,
+         "strokeAlign": "OUTSIDE",
+         "effects": [],
+         "characters": "SLOGAN",
+         "style": {
+            "fontFamily": "Inter",
+            "fontPostScriptName": "Inter-Regular",
+            "fontWeight": 400,
+            "textAutoResize": "WIDTH_AND_HEIGHT",
+            "fontSize": 17.77777671813965,
+            "textAlignHorizontal": "LEFT",
+            "textAlignVertical": "TOP",
+            "leadingTrim": "CAP_HEIGHT",
+            "letterSpacing": 0,
+            "lineHeightPx": 21.51515007019043,
+            "lineHeightPercent": 100,
+            "lineHeightUnit": "INTRINSIC_%"
+         },
+         "layoutVersion": 4,
+         "characterStyleOverrides": [],
+         "styleOverrideTable": {},
+         "lineTypes": [
+            "NONE"
+         ],
+         "lineIndentations": [
+            0
+         ]
+      },
+      {
+         "id": "253:374",
          "isAsset": true,
-         "width": 226,
+         "width": 122.5,
          "name": "image_5",
          "type": "RECTANGLE",
          "scrollBehavior": "SCROLLS",
          "blendMode": "PASS_THROUGH",
          "absoluteBoundingBox": {
-            "x": -1340,
-            "y": 11172,
-            "width": 226,
-            "height": 173
+            "x": -1608,
+            "y": 1993,
+            "width": 122.5,
+            "height": 99
          },
          "absoluteRenderBounds": {
-            "x": -1340,
-            "y": 11172,
-            "width": 226,
-            "height": 173
+            "x": -1608,
+            "y": 1993,
+            "width": 122.5,
+            "height": 99
          },
          "preserveRatio": true,
          "constraints": {
@@ -78,47 +208,399 @@
                "blendMode": "NORMAL",
                "type": "IMAGE",
                "scaleMode": "FILL",
-               "imageRef": "d297ba3824c5a62a6bb50749d73d45604fa65eee"
+               "imageRef": "f60111649051a87dfcb055188af8a1a372c76d6f"
             }
          ],
          "strokes": [],
          "strokeWeight": 1,
          "strokeAlign": "INSIDE",
-         "exportSettings": [
-            {
-               "suffix": "",
-               "format": "PNG",
-               "constraint": {
-                  "type": "SCALE",
-                  "value": 1
-               }
-            }
-         ],
          "effects": []
       },
       {
-         "id": "408:5",
+         "id": "253:59",
+         "isAsset": false,
+         "width": 613,
+         "name": "Boost Your",
+         "type": "TEXT",
+         "scrollBehavior": "SCROLLS",
+         "blendMode": "PASS_THROUGH",
+         "absoluteBoundingBox": {
+            "x": -2223,
+            "y": 1859,
+            "width": 613,
+            "height": 84
+         },
+         "absoluteRenderBounds": {
+            "x": -2215.730712890625,
+            "y": 1859.3636474609375,
+            "width": 602.9637451171875,
+            "height": 84.8614501953125
+         },
+         "constraints": {
+            "vertical": "TOP",
+            "horizontal": "LEFT"
+         },
+         "fills": [
+            {
+               "blendMode": "NORMAL",
+               "type": "SOLID",
+               "color": {
+                  "r": 1,
+                  "g": 1,
+                  "b": 1,
+                  "a": 1
+               }
+            }
+         ],
+         "strokes": [],
+         "strokeWeight": 1.111111044883728,
+         "strokeAlign": "OUTSIDE",
+         "effects": [],
+         "characters": "Boost Your",
+         "style": {
+            "fontFamily": "Inter",
+            "fontPostScriptName": "Inter-Bold",
+            "fontWeight": 700,
+            "textAutoResize": "WIDTH_AND_HEIGHT",
+            "fontSize": 115,
+            "textAlignHorizontal": "LEFT",
+            "textAlignVertical": "TOP",
+            "leadingTrim": "CAP_HEIGHT",
+            "letterSpacing": 0,
+            "lineHeightPx": 80.5,
+            "lineHeightPercent": 57.84037780761719,
+            "lineHeightPercentFontSize": 70,
+            "lineHeightUnit": "FONT_SIZE_%"
+         },
+         "layoutVersion": 4,
+         "characterStyleOverrides": [],
+         "styleOverrideTable": {},
+         "lineTypes": [
+            "NONE"
+         ],
+         "lineIndentations": [
+            0
+         ]
+      },
+      {
+         "id": "253:368",
+         "isAsset": false,
+         "width": 513,
+         "name": "Business",
+         "type": "TEXT",
+         "scrollBehavior": "SCROLLS",
+         "blendMode": "PASS_THROUGH",
+         "absoluteBoundingBox": {
+            "x": -2223,
+            "y": 1974,
+            "width": 513,
+            "height": 84
+         },
+         "absoluteRenderBounds": {
+            "x": -2215.730712890625,
+            "y": 1969.5855712890625,
+            "width": 501.6138916015625,
+            "height": 89.6395263671875
+         },
+         "constraints": {
+            "vertical": "TOP",
+            "horizontal": "LEFT"
+         },
+         "fills": [
+            {
+               "blendMode": "NORMAL",
+               "type": "SOLID",
+               "color": {
+                  "r": 1,
+                  "g": 1,
+                  "b": 1,
+                  "a": 1
+               }
+            }
+         ],
+         "strokes": [],
+         "strokeWeight": 1.111111044883728,
+         "strokeAlign": "OUTSIDE",
+         "effects": [],
+         "characters": "Business",
+         "style": {
+            "fontFamily": "Inter",
+            "fontPostScriptName": "Inter-Bold",
+            "fontWeight": 700,
+            "textAutoResize": "WIDTH_AND_HEIGHT",
+            "fontSize": 115,
+            "textAlignHorizontal": "LEFT",
+            "textAlignVertical": "TOP",
+            "leadingTrim": "CAP_HEIGHT",
+            "letterSpacing": 0,
+            "lineHeightPx": 80.5,
+            "lineHeightPercent": 57.84037780761719,
+            "lineHeightPercentFontSize": 70,
+            "lineHeightUnit": "FONT_SIZE_%"
+         },
+         "layoutVersion": 4,
+         "characterStyleOverrides": [],
+         "styleOverrideTable": {},
+         "lineTypes": [
+            "NONE"
+         ],
+         "lineIndentations": [
+            0
+         ]
+      },
+      {
+         "id": "253:60",
+         "isAsset": false,
+         "width": 604,
+         "name": "Lorem Ipsum is simply dummy text of the",
+         "type": "TEXT",
+         "scrollBehavior": "SCROLLS",
+         "blendMode": "PASS_THROUGH",
+         "absoluteBoundingBox": {
+            "x": -2212.22216796875,
+            "y": 2117.4443359375,
+            "width": 604,
+            "height": 23
+         },
+         "absoluteRenderBounds": {
+            "x": -2209.482177734375,
+            "y": 2116.757568359375,
+            "width": 598.7313232421875,
+            "height": 30.05029296875
+         },
+         "constraints": {
+            "vertical": "TOP",
+            "horizontal": "LEFT"
+         },
+         "fills": [
+            {
+               "blendMode": "NORMAL",
+               "type": "SOLID",
+               "color": {
+                  "r": 1,
+                  "g": 1,
+                  "b": 1,
+                  "a": 1
+               }
+            }
+         ],
+         "strokes": [],
+         "strokeWeight": 1.111111044883728,
+         "strokeAlign": "OUTSIDE",
+         "effects": [],
+         "characters": "Lorem Ipsum is simply dummy text of the",
+         "style": {
+            "fontFamily": "Inter",
+            "fontPostScriptName": "Inter-Regular",
+            "fontWeight": 400,
+            "textAutoResize": "WIDTH_AND_HEIGHT",
+            "fontSize": 31.111108779907227,
+            "textAlignHorizontal": "LEFT",
+            "textAlignVertical": "TOP",
+            "leadingTrim": "CAP_HEIGHT",
+            "letterSpacing": 0,
+            "lineHeightPx": 37.651512145996094,
+            "lineHeightPercent": 100,
+            "lineHeightUnit": "INTRINSIC_%"
+         },
+         "layoutVersion": 4,
+         "characterStyleOverrides": [],
+         "styleOverrideTable": {},
+         "lineTypes": [
+            "NONE"
+         ],
+         "lineIndentations": [
+            0
+         ]
+      },
+      {
+         "id": "253:369",
+         "isAsset": false,
+         "width": 488,
+         "name": "printing and typesetting industry.",
+         "type": "TEXT",
+         "scrollBehavior": "SCROLLS",
+         "blendMode": "PASS_THROUGH",
+         "absoluteBoundingBox": {
+            "x": -2212,
+            "y": 2166,
+            "width": 488,
+            "height": 23
+         },
+         "absoluteRenderBounds": {
+            "x": -2209.613525390625,
+            "y": 2165.666748046875,
+            "width": 483.2247314453125,
+            "height": 30.050537109375
+         },
+         "constraints": {
+            "vertical": "TOP",
+            "horizontal": "LEFT"
+         },
+         "fills": [
+            {
+               "blendMode": "NORMAL",
+               "type": "SOLID",
+               "color": {
+                  "r": 1,
+                  "g": 1,
+                  "b": 1,
+                  "a": 1
+               }
+            }
+         ],
+         "strokes": [],
+         "strokeWeight": 1.111111044883728,
+         "strokeAlign": "OUTSIDE",
+         "effects": [],
+         "characters": "printing and typesetting industry.",
+         "style": {
+            "fontFamily": "Inter",
+            "fontPostScriptName": "Inter-Regular",
+            "fontWeight": 400,
+            "textAutoResize": "WIDTH_AND_HEIGHT",
+            "fontSize": 31.111108779907227,
+            "textAlignHorizontal": "LEFT",
+            "textAlignVertical": "TOP",
+            "leadingTrim": "CAP_HEIGHT",
+            "letterSpacing": 0,
+            "lineHeightPx": 37.651512145996094,
+            "lineHeightPercent": 100,
+            "lineHeightUnit": "INTRINSIC_%"
+         },
+         "layoutVersion": 4,
+         "characterStyleOverrides": [],
+         "styleOverrideTable": {},
+         "lineTypes": [
+            "NONE"
+         ],
+         "lineIndentations": [
+            0
+         ]
+      },
+      {
+         "id": "253:61",
          "isAsset": true,
-         "width": 697.6589965820312,
+         "width": 167.99996948242188,
          "name": "image_4",
+         "type": "VECTOR",
+         "scrollBehavior": "SCROLLS",
+         "rotation": 3.141592653589793,
+         "blendMode": "PASS_THROUGH",
+         "absoluteBoundingBox": {
+            "x": -1258,
+            "y": 2044.77783203125,
+            "width": 168,
+            "height": 119.615966796875
+         },
+         "absoluteRenderBounds": {
+            "x": -1275,
+            "y": 2027.77783203125,
+            "width": 185,
+            "height": 153.616943359375
+         },
+         "preserveRatio": true,
+         "constraints": {
+            "vertical": "TOP",
+            "horizontal": "RIGHT"
+         },
+         "fills": [
+            {
+               "blendMode": "NORMAL",
+               "type": "IMAGE",
+               "scaleMode": "FILL",
+               "imageRef": "3cc5cf35fecb7288fae7d79ecd99471510cc7e43"
+            }
+         ],
+         "strokes": [
+            {
+               "blendMode": "NORMAL",
+               "type": "SOLID",
+               "color": {
+                  "r": 0.6431372761726379,
+                  "g": 0.6941176652908325,
+                  "b": 0.9254902005195618,
+                  "a": 1
+               }
+            }
+         ],
+         "strokeWeight": 34,
+         "strokeAlign": "CENTER",
+         "strokeJoin": "ROUND",
+         "strokeCap": "ROUND",
+         "effects": []
+      },
+      {
+         "id": "253:62",
+         "isAsset": true,
+         "width": 680,
+         "name": "image_3",
+         "type": "VECTOR",
+         "scrollBehavior": "SCROLLS",
+         "blendMode": "PASS_THROUGH",
+         "absoluteBoundingBox": {
+            "x": -2223.333251953125,
+            "y": 1583,
+            "width": 680,
+            "height": 211.111083984375
+         },
+         "absoluteRenderBounds": {
+            "x": -2248.3388671875,
+            "y": 1583,
+            "width": 705.005615234375,
+            "height": 236.111083984375
+         },
+         "constraints": {
+            "vertical": "TOP",
+            "horizontal": "LEFT"
+         },
+         "fills": [
+            {
+               "blendMode": "NORMAL",
+               "type": "IMAGE",
+               "scaleMode": "FILL",
+               "imageRef": "24f0aab141ac72646c1b5e78539e2f89b7466327"
+            }
+         ],
+         "strokes": [
+            {
+               "blendMode": "NORMAL",
+               "type": "SOLID",
+               "color": {
+                  "r": 0.6431372761726379,
+                  "g": 0.6941176652908325,
+                  "b": 0.9254902005195618,
+                  "a": 1
+               }
+            }
+         ],
+         "strokeWeight": 49.999996185302734,
+         "strokeAlign": "CENTER",
+         "effects": []
+      },
+      {
+         "id": "253:63",
+         "isAsset": true,
+         "width": 456.66668701171875,
+         "name": "image_2",
          "type": "RECTANGLE",
          "scrollBehavior": "SCROLLS",
          "blendMode": "PASS_THROUGH",
          "absoluteBoundingBox": {
-            "x": -1228,
-            "y": 11258,
-            "width": 697.6589965820312,
-            "height": 524.037109375
+            "x": -1546.666748046875,
+            "y": 1582.77783203125,
+            "width": 456.666748046875,
+            "height": 366.3653564453125
          },
          "absoluteRenderBounds": {
-            "x": -1228,
-            "y": 11258,
-            "width": 697.6589965820312,
-            "height": 524
+            "x": -1546.666748046875,
+            "y": 1583,
+            "width": 456.666748046875,
+            "height": 366.1431884765625
          },
          "constraints": {
-            "vertical": "BOTTOM",
-            "horizontal": "RIGHT"
+            "vertical": "TOP",
+            "horizontal": "LEFT"
          },
          "fills": [
             {
@@ -141,563 +623,36 @@
             }
          ],
          "strokes": [],
-         "strokeWeight": 0.7927942276000977,
+         "strokeWeight": 0.8600125312805176,
          "strokeAlign": "INSIDE",
-         "exportSettings": [
-            {
-               "suffix": "",
-               "format": "PNG",
-               "constraint": {
-                  "type": "SCALE",
-                  "value": 1
-               }
-            }
-         ],
          "effects": [],
          "rectangleCornerRadii": [
-            182.34268188476562,
             0,
             0,
-            0
+            0,
+            98.90144348144531
          ],
          "cornerSmoothing": 0
       },
       {
-         "id": "408:6",
-         "isAsset": false,
-         "width": 682,
-         "name": "Boost Your",
-         "type": "TEXT",
-         "scrollBehavior": "SCROLLS",
-         "blendMode": "PASS_THROUGH",
-         "absoluteBoundingBox": {
-            "x": -1492,
-            "y": 10610,
-            "width": 682,
-            "height": 93
-         },
-         "absoluteRenderBounds": {
-            "x": -1483.9090576171875,
-            "y": 10609.9091796875,
-            "width": 671.125,
-            "height": 94.4541015625
-         },
-         "constraints": {
-            "vertical": "TOP",
-            "horizontal": "LEFT"
-         },
-         "fills": [
-            {
-               "blendMode": "NORMAL",
-               "type": "SOLID",
-               "color": {
-                  "r": 1,
-                  "g": 1,
-                  "b": 1,
-                  "a": 1
-               }
-            }
-         ],
-         "strokes": [],
-         "strokeWeight": 1.5495129823684692,
-         "strokeAlign": "OUTSIDE",
-         "effects": [],
-         "characters": "Boost Your",
-         "style": {
-            "fontFamily": "Inter",
-            "fontPostScriptName": "Inter-Bold",
-            "fontWeight": 700,
-            "textAutoResize": "WIDTH_AND_HEIGHT",
-            "fontSize": 128,
-            "textAlignHorizontal": "LEFT",
-            "textAlignVertical": "TOP",
-            "leadingTrim": "CAP_HEIGHT",
-            "letterSpacing": 0,
-            "lineHeightPx": 138.8800048828125,
-            "lineHeightPercent": 89.65258026123047,
-            "lineHeightPercentFontSize": 108.5,
-            "lineHeightUnit": "FONT_SIZE_%"
-         },
-         "layoutVersion": 4,
-         "characterStyleOverrides": [],
-         "styleOverrideTable": {},
-         "lineTypes": [
-            "NONE"
-         ],
-         "lineIndentations": [
-            0
-         ]
-      },
-      {
-         "id": "408:13",
-         "isAsset": false,
-         "width": 571,
-         "name": "Business",
-         "type": "TEXT",
-         "scrollBehavior": "SCROLLS",
-         "blendMode": "PASS_THROUGH",
-         "absoluteBoundingBox": {
-            "x": -1492,
-            "y": 10752,
-            "width": 571,
-            "height": 93
-         },
-         "absoluteRenderBounds": {
-            "x": -1483.9090576171875,
-            "y": 10746.5908203125,
-            "width": 558.3181762695312,
-            "height": 99.7724609375
-         },
-         "constraints": {
-            "vertical": "TOP",
-            "horizontal": "LEFT"
-         },
-         "fills": [
-            {
-               "blendMode": "NORMAL",
-               "type": "SOLID",
-               "color": {
-                  "r": 1,
-                  "g": 1,
-                  "b": 1,
-                  "a": 1
-               }
-            }
-         ],
-         "strokes": [],
-         "strokeWeight": 1,
-         "strokeAlign": "OUTSIDE",
-         "effects": [],
-         "characters": "Business",
-         "style": {
-            "fontFamily": "Inter",
-            "fontPostScriptName": "Inter-Bold",
-            "fontWeight": 700,
-            "textAutoResize": "WIDTH_AND_HEIGHT",
-            "fontSize": 128,
-            "textAlignHorizontal": "LEFT",
-            "textAlignVertical": "TOP",
-            "leadingTrim": "CAP_HEIGHT",
-            "letterSpacing": 0,
-            "lineHeightPx": 138.8800048828125,
-            "lineHeightPercent": 89.65258026123047,
-            "lineHeightPercentFontSize": 108.5,
-            "lineHeightUnit": "FONT_SIZE_%"
-         },
-         "layoutVersion": 4,
-         "characterStyleOverrides": [],
-         "styleOverrideTable": {},
-         "lineTypes": [
-            "NONE"
-         ],
-         "lineIndentations": [
-            0
-         ]
-      },
-      {
-         "id": "408:7",
-         "isAsset": false,
-         "width": 841,
-         "name": "Lorem Ipsum is simply dummy text of the",
-         "type": "TEXT",
-         "scrollBehavior": "SCROLLS",
-         "blendMode": "PASS_THROUGH",
-         "absoluteBoundingBox": {
-            "x": -1492,
-            "y": 10894,
-            "width": 841,
-            "height": 32
-         },
-         "absoluteRenderBounds": {
-            "x": -1488.1790771484375,
-            "y": 10892.966796875,
-            "width": 834.968017578125,
-            "height": 41.9072265625
-         },
-         "constraints": {
-            "vertical": "TOP",
-            "horizontal": "LEFT"
-         },
-         "fills": [
-            {
-               "blendMode": "NORMAL",
-               "type": "SOLID",
-               "color": {
-                  "r": 1,
-                  "g": 1,
-                  "b": 1,
-                  "a": 1
-               }
-            }
-         ],
-         "strokes": [],
-         "strokeWeight": 1.5495129823684692,
-         "strokeAlign": "OUTSIDE",
-         "effects": [],
-         "characters": "Lorem Ipsum is simply dummy text of the",
-         "style": {
-            "fontFamily": "Inter",
-            "fontPostScriptName": "Inter-Regular",
-            "fontWeight": 400,
-            "textAutoResize": "WIDTH_AND_HEIGHT",
-            "fontSize": 43.3863639831543,
-            "textAlignHorizontal": "LEFT",
-            "textAlignVertical": "TOP",
-            "leadingTrim": "CAP_HEIGHT",
-            "letterSpacing": 0,
-            "lineHeightPx": 52.50735855102539,
-            "lineHeightPercent": 100,
-            "lineHeightUnit": "INTRINSIC_%"
-         },
-         "layoutVersion": 4,
-         "characterStyleOverrides": [],
-         "styleOverrideTable": {},
-         "lineTypes": [
-            "NONE"
-         ],
-         "lineIndentations": [
-            0
-         ]
-      },
-      {
-         "id": "408:14",
-         "isAsset": false,
-         "width": 681,
-         "name": "printing and typesetting industry.",
-         "type": "TEXT",
-         "scrollBehavior": "SCROLLS",
-         "blendMode": "PASS_THROUGH",
-         "absoluteBoundingBox": {
-            "x": -1492,
-            "y": 10964,
-            "width": 681,
-            "height": 32
-         },
-         "absoluteRenderBounds": {
-            "x": -1488.672119140625,
-            "y": 10963.4599609375,
-            "width": 673.8869018554688,
-            "height": 41.9072265625
-         },
-         "constraints": {
-            "vertical": "TOP",
-            "horizontal": "LEFT"
-         },
-         "fills": [
-            {
-               "blendMode": "NORMAL",
-               "type": "SOLID",
-               "color": {
-                  "r": 1,
-                  "g": 1,
-                  "b": 1,
-                  "a": 1
-               }
-            }
-         ],
-         "strokes": [],
-         "strokeWeight": 1,
-         "strokeAlign": "OUTSIDE",
-         "effects": [],
-         "characters": "printing and typesetting industry.",
-         "style": {
-            "fontFamily": "Inter",
-            "fontPostScriptName": "Inter-Regular",
-            "fontWeight": 400,
-            "textAutoResize": "WIDTH_AND_HEIGHT",
-            "fontSize": 43.3863639831543,
-            "textAlignHorizontal": "LEFT",
-            "textAlignVertical": "TOP",
-            "leadingTrim": "CAP_HEIGHT",
-            "letterSpacing": 0,
-            "lineHeightPx": 52.50735855102539,
-            "lineHeightPercent": 100,
-            "lineHeightUnit": "INTRINSIC_%"
-         },
-         "layoutVersion": 4,
-         "characterStyleOverrides": [],
-         "styleOverrideTable": {},
-         "lineTypes": [
-            "NONE"
-         ],
-         "lineIndentations": [
-            0
-         ]
-      },
-      {
-         "id": "408:8",
-         "isAsset": false,
-         "width": 302,
-         "name": "LOGO",
-         "type": "TEXT",
-         "scrollBehavior": "SCROLLS",
-         "blendMode": "PASS_THROUGH",
-         "absoluteBoundingBox": {
-            "x": -1492,
-            "y": 10394,
-            "width": 302,
-            "height": 77
-         },
-         "absoluteRenderBounds": {
-            "x": -1485.34130859375,
-            "y": 10393.33984375,
-            "width": 289.7283935546875,
-            "height": 78.7080078125
-         },
-         "constraints": {
-            "vertical": "TOP",
-            "horizontal": "LEFT"
-         },
-         "fills": [
-            {
-               "blendMode": "NORMAL",
-               "type": "SOLID",
-               "color": {
-                  "r": 1,
-                  "g": 1,
-                  "b": 1,
-                  "a": 1
-               }
-            }
-         ],
-         "strokes": [],
-         "strokeWeight": 2.1946284770965576,
-         "strokeAlign": "OUTSIDE",
-         "effects": [],
-         "characters": "LOGO",
-         "style": {
-            "fontFamily": "Inter",
-            "fontPostScriptName": "Inter-Bold",
-            "fontWeight": 700,
-            "textAutoResize": "WIDTH_AND_HEIGHT",
-            "fontSize": 105.3421630859375,
-            "textAlignHorizontal": "LEFT",
-            "textAlignVertical": "TOP",
-            "leadingTrim": "CAP_HEIGHT",
-            "letterSpacing": 0,
-            "lineHeightPx": 127.48795318603516,
-            "lineHeightPercent": 100,
-            "lineHeightUnit": "INTRINSIC_%"
-         },
-         "layoutVersion": 4,
-         "characterStyleOverrides": [],
-         "styleOverrideTable": {},
-         "lineTypes": [
-            "NONE"
-         ],
-         "lineIndentations": [
-            0
-         ]
-      },
-      {
-         "id": "408:9",
-         "isAsset": false,
-         "width": 156,
-         "name": "SLOGAN",
-         "type": "TEXT",
-         "scrollBehavior": "SCROLLS",
-         "blendMode": "PASS_THROUGH",
-         "absoluteBoundingBox": {
-            "x": -1481,
-            "y": 10509,
-            "width": 156,
-            "height": 28
-         },
-         "absoluteRenderBounds": {
-            "x": -1478.8350830078125,
-            "y": 10508.91015625,
-            "width": 150.048828125,
-            "height": 28.5771484375
-         },
-         "constraints": {
-            "vertical": "TOP",
-            "horizontal": "LEFT"
-         },
-         "fills": [
-            {
-               "blendMode": "NORMAL",
-               "type": "SOLID",
-               "color": {
-                  "r": 1,
-                  "g": 1,
-                  "b": 1,
-                  "a": 1
-               }
-            }
-         ],
-         "strokes": [],
-         "strokeWeight": 2.1946284770965576,
-         "strokeAlign": "OUTSIDE",
-         "effects": [],
-         "characters": "SLOGAN",
-         "style": {
-            "fontFamily": "Inter",
-            "fontPostScriptName": "Inter-Regular",
-            "fontWeight": 400,
-            "textAutoResize": "WIDTH_AND_HEIGHT",
-            "fontSize": 38.10247802734375,
-            "textAlignHorizontal": "LEFT",
-            "textAlignVertical": "TOP",
-            "leadingTrim": "CAP_HEIGHT",
-            "letterSpacing": 0,
-            "lineHeightPx": 46.11265563964844,
-            "lineHeightPercent": 100,
-            "lineHeightUnit": "INTRINSIC_%"
-         },
-         "layoutVersion": 4,
-         "characterStyleOverrides": [],
-         "styleOverrideTable": {},
-         "lineTypes": [
-            "NONE"
-         ],
-         "lineIndentations": [
-            0
-         ]
-      },
-      {
-         "id": "408:10",
+         "id": "253:372",
          "isAsset": true,
-         "width": 278.5,
-         "name": "image_3",
-         "type": "VECTOR",
-         "scrollBehavior": "SCROLLS",
-         "blendMode": "PASS_THROUGH",
-         "absoluteBoundingBox": {
-            "x": -809,
-            "y": 11032.5,
-            "width": 278.5,
-            "height": 206
-         },
-         "absoluteRenderBounds": {
-            "x": -827.5,
-            "y": 11014,
-            "width": 297.5,
-            "height": 243
-         },
-         "constraints": {
-            "vertical": "TOP",
-            "horizontal": "LEFT"
-         },
-         "fills": [
-            {
-               "blendMode": "NORMAL",
-               "type": "IMAGE",
-               "scaleMode": "FILL",
-               "imageRef": "256c0c77bc2bea007a707fe9e9f25bb1786153c2"
-            }
-         ],
-         "strokes": [
-            {
-               "blendMode": "NORMAL",
-               "type": "SOLID",
-               "color": {
-                  "r": 0.6431372761726379,
-                  "g": 0.6941176652908325,
-                  "b": 0.9254902005195618,
-                  "a": 1
-               }
-            }
-         ],
-         "strokeWeight": 37,
-         "strokeAlign": "CENTER",
-         "strokeJoin": "ROUND",
-         "strokeCap": "ROUND",
-         "exportSettings": [
-            {
-               "suffix": "",
-               "format": "PNG",
-               "constraint": {
-                  "type": "SCALE",
-                  "value": 1
-               }
-            }
-         ],
-         "effects": []
-      },
-      {
-         "id": "408:11",
-         "isAsset": true,
-         "width": 167.5,
-         "name": "image_2",
-         "type": "VECTOR",
-         "scrollBehavior": "SCROLLS",
-         "blendMode": "PASS_THROUGH",
-         "absoluteBoundingBox": {
-            "x": -715,
-            "y": 10299,
-            "width": 167.5,
-            "height": 564
-         },
-         "absoluteRenderBounds": {
-            "x": -733.5,
-            "y": 10282,
-            "width": 203.5,
-            "height": 599.5
-         },
-         "constraints": {
-            "vertical": "TOP",
-            "horizontal": "LEFT"
-         },
-         "fills": [
-            {
-               "blendMode": "NORMAL",
-               "type": "IMAGE",
-               "scaleMode": "FILL",
-               "imageRef": "1befc4c274df08ea6d3206440857dfb9b498df77"
-            }
-         ],
-         "fillOverrideTable": {
-            "1": null
-         },
-         "strokes": [
-            {
-               "blendMode": "NORMAL",
-               "type": "SOLID",
-               "color": {
-                  "r": 0.6431372761726379,
-                  "g": 0.6941176652908325,
-                  "b": 0.9254902005195618,
-                  "a": 1
-               }
-            }
-         ],
-         "strokeWeight": 37,
-         "strokeAlign": "CENTER",
-         "strokeJoin": "ROUND",
-         "strokeCap": "SQUARE",
-         "exportSettings": [
-            {
-               "suffix": "",
-               "format": "PNG",
-               "constraint": {
-                  "type": "SCALE",
-                  "value": 1
-               }
-            }
-         ],
-         "effects": [],
-         "cornerRadius": 122,
-         "cornerSmoothing": 0
-      },
-      {
-         "id": "408:12",
-         "isAsset": true,
-         "width": 309.5,
+         "width": 192.5,
          "name": "image_1",
          "type": "RECTANGLE",
          "scrollBehavior": "SCROLLS",
          "blendMode": "PASS_THROUGH",
          "absoluteBoundingBox": {
-            "x": -1052,
-            "y": 10350,
-            "width": 309.5,
-            "height": 77
+            "x": -1297,
+            "y": 2193,
+            "width": 192.5,
+            "height": 53
          },
          "absoluteRenderBounds": {
-            "x": -1052,
-            "y": 10350,
-            "width": 309.5,
-            "height": 77
+            "x": -1297,
+            "y": 2193,
+            "width": 192.5,
+            "height": 53
          },
          "preserveRatio": true,
          "constraints": {
@@ -709,36 +664,26 @@
                "blendMode": "NORMAL",
                "type": "IMAGE",
                "scaleMode": "FILL",
-               "imageRef": "484e0277059a47c146f892de2f2384488a9c04b6"
+               "imageRef": "68a2d7e47bb9626c56c4ddf75051b6321f163470"
             }
          ],
          "strokes": [],
          "strokeWeight": 1,
          "strokeAlign": "INSIDE",
-         "exportSettings": [
-            {
-               "suffix": "",
-               "format": "PNG",
-               "constraint": {
-                  "type": "SCALE",
-                  "value": 1
-               }
-            }
-         ],
          "effects": []
       }
    ],
    "absoluteBoundingBox": {
-      "x": -1530,
-      "y": 10282,
-      "width": 1000,
-      "height": 1500
+      "x": -2290,
+      "y": 1583,
+      "width": 1200,
+      "height": 675
    },
    "absoluteRenderBounds": {
-      "x": -1530,
-      "y": 10282,
-      "width": 1000,
-      "height": 1500
+      "x": -2290,
+      "y": 1583,
+      "width": 1200,
+      "height": 675
    },
    "constraints": {
       "vertical": "TOP",
@@ -770,7 +715,7 @@
       }
    ],
    "strokes": [],
-   "strokeWeight": 2,
+   "strokeWeight": 1.111111044883728,
    "strokeAlign": "INSIDE",
    "backgroundColor": {
       "r": 1,
@@ -778,5 +723,6 @@
       "b": 1,
       "a": 1
    },
+   "overflowDirection": "HORIZONTAL_AND_VERTICAL_SCROLLING",
    "effects": []
 }
