@@ -214,6 +214,16 @@
          "strokes": [],
          "strokeWeight": 1,
          "strokeAlign": "INSIDE",
+         "exportSettings": [
+            {
+               "suffix": "",
+               "format": "PNG",
+               "constraint": {
+                  "type": "SCALE",
+                  "value": 1
+               }
+            }
+         ],
          "effects": []
       },
       {
@@ -528,6 +538,16 @@
          "strokeAlign": "CENTER",
          "strokeJoin": "ROUND",
          "strokeCap": "ROUND",
+         "exportSettings": [
+            {
+               "suffix": "",
+               "format": "PNG",
+               "constraint": {
+                  "type": "SCALE",
+                  "value": 1
+               }
+            }
+         ],
          "effects": []
       },
       {
@@ -576,6 +596,16 @@
          ],
          "strokeWeight": 49.999996185302734,
          "strokeAlign": "CENTER",
+         "exportSettings": [
+            {
+               "suffix": "",
+               "format": "PNG",
+               "constraint": {
+                  "type": "SCALE",
+                  "value": 1
+               }
+            }
+         ],
          "effects": []
       },
       {
@@ -625,6 +655,16 @@
          "strokes": [],
          "strokeWeight": 0.8600125312805176,
          "strokeAlign": "INSIDE",
+         "exportSettings": [
+            {
+               "suffix": "",
+               "format": "PNG",
+               "constraint": {
+                  "type": "SCALE",
+                  "value": 1
+               }
+            }
+         ],
          "effects": [],
          "rectangleCornerRadii": [
             0,
@@ -670,6 +710,16 @@
          "strokes": [],
          "strokeWeight": 1,
          "strokeAlign": "INSIDE",
+         "exportSettings": [
+            {
+               "suffix": "",
+               "format": "PNG",
+               "constraint": {
+                  "type": "SCALE",
+                  "value": 1
+               }
+            }
+         ],
          "effects": []
       }
    ],
