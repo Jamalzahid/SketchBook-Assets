@@ -495,7 +495,7 @@
          "name": "image_4",
          "type": "VECTOR",
          "scrollBehavior": "SCROLLS",
-         "rotation": 3.141592653589793,
+       
          "blendMode": "PASS_THROUGH",
          "absoluteBoundingBox": {
             "x": -1258,
